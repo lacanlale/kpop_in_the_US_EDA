@@ -1,1105 +1,815 @@
-,Artist,Song Name,Total English Words,Total Korean Words
-0,NewJeans,ASAP,601,14
-1,NewJeans,Attention,244,76
-2,NewJeans,Attention (Mixed),178,76
-3,NewJeans,아름다운 구속 (Beautiful Restriction),8,133
-4,NewJeans,Cookie,158,187
-5,NewJeans,Cool With You,170,39
-6,NewJeans,Ditto,236,69
-7,NewJeans,ETA,233,89
-8,NewJeans,Get Up,51,0
-9,NewJeans,Hurt,159,94
-10,NewJeans,Hype Boy,271,91
-11,NewJeans,New Jeans,184,19
-12,NewJeans,NewJeans Chicken Dance Campaign,21,0
-13,NewJeans,OMG,378,140
-14,NewJeans,Super Shy,359,30
-15,NewJeans,Zero,270,79
-16,BTS,00:00 (Zero O’Clock),128,188
-17,BTS,134340,12,317
-18,BTS,2018 United Nations General Assembly Speech,793,0
-19,BTS,21세기 소녀 (21st Century Girl),207,92
-20,BTS,2학년 (2nd Grade / Second Grade / So 4 More),216,294
-21,BTS,둘! 셋! (그래도 좋은 날이 더 많기를) (2! 3!),36,352
-22,BTS,24/7=Heaven,134,229
-23,BTS,Adult Child (어른아이),880,280
-24,BTS,Airplane pt.2,190,171
-25,BTS,Airplane pt.2 (Japanese ver.),204,0
-26,BTS,Am I Wrong,170,150
-27,BTS,Anpanman,304,209
-28,BTS,Answer: Love Myself,110,226
-29,BTS,A Supplementary Story : You Never Walk Alone,73,158
-30,BTS,진격의 방탄 (Attack on Bangtan/The Rise of Bangtan),82,326
-31,BTS,흔한 아이돌의 크리스마스 (A Typical Idol’s Christmas),52,226
-32,BTS,흔한 연습생의 크리스마스 (A Typical Trainee’s Christmas),122,248
-33,BTS,고엽 (Autumn Leaves),47,283
-34,BTS,AWAKE,147,111
-35,BTS,Beautiful,67,173
-36,BTS,BEGIN,125,58
-37,BTS,Best Of Me,237,184
-38,BTS,Best Of Me (Japanese Ver.),234,0
-39,BTS,Black Swan,240,149
-40,BTS,Black Swan (Japanese ver.),245,0
-41,BTS,이불킥 (Blanket Kick/Embarrassed),79,326
-42,BTS,피 땀 눈물 (Blood Sweat & Tears),55,220
-43,BTS,Blue & Grey,70,202
-44,BTS,Born Singer,135,330
-45,BTS,상남자 (Boy In Luv),79,340
-46,BTS,Boy In Luv (Chinese Ver.),87,0
-47,BTS,상남자 (Boy In Luv) (Demo Ver.),171,337
-48,BTS,Boy In Luv (Japanese Ver.),131,0
-49,BTS,작은 것들을 위한 시 (Boy With Luv),278,181
-50,BTS,Boy With Luv (Japanese ver.),261,0
-51,BTS,흥탄소년단 (Boyz with Fun),80,337
-52,BTS,흥탄소년단 (Boyz With Fun) (Demo Ver.),128,321
-53,BTS,BTS Cypher 4,246,254
-54,BTS,BTS Cypher Pt.1,120,203
-55,BTS,"BTS Cypher, Pt. 3: KILLER",249,411
-56,BTS,불타오르네 (Burning Up) (Fire),165,117
-57,BTS,Butter,400,0
-58,BTS,Butterfly,61,183
-59,BTS,Butterfly (Alternative Mix),61,183
-60,BTS,Butterfly (Japanese Ver.),66,0
-61,BTS,Butterfly (Prologue Mix),58,124
-62,BTS,Butter (Instrumental),0,0
-63,BTS,Cake Waltz (Jimin Theme),0,0
-64,BTS,Captain (Namjun Theme),0,0
-65,BTS,Coffee,72,252
-66,BTS,Come Back Home (컴백홈),205,158
-67,BTS,Converse High,90,217
-68,BTS,핸드폰 좀 꺼줄래 (Could You Turn Off Your Cell Phone?),48,323
-69,BTS,Crystal Snow,175,0
-70,BTS,"Cypher, Pt. 2: Triptych",246,540
-71,BTS,Danger,34,327
-72,BTS,Danger (Japanese Ver.),47,0
-73,BTS,Danger (Mo-Blue-Mix),190,275
-74,BTS,땡 (Ddaeng),100,339
-75,BTS,보조개 (​Dimple),193,118
-76,BTS,Dionysus,211,311
-77,BTS,Dionysus (Japanese ver.),237,0
-78,BTS,병 (Dis-ease),158,267
-79,BTS,DNA,89,207
-80,BTS,DNA (Japanese Ver.),94,0
-81,BTS,DNA (j-hope Demo Ver.),81,47
-82,BTS,DNA (Pedal 2 LA Mix),89,214
-83,BTS,Don’t Leave Me,81,0
-84,BTS,쩔어 (DOPE),148,218
-85,BTS,DOPE -超ヤベー!- (Japanese Ver.),142,4
-86,BTS,Dynamite,577,0
-87,BTS,Dynamite (Instrumental),0,0
-88,BTS,Dynamite (The Tonight Show Ver.),411,0
-89,BTS,EPILOGUE : Young Forever,49,174
-90,BTS,EPILOGUE : Young Forever (Japanese Ver.),53,0
-91,BTS,Epiphany,73,116
-92,BTS,Epiphany (Jin Demo Ver.),259,0
-93,BTS,Euphoria,171,109
-94,BTS,FAKE LOVE,224,211
-95,BTS,Fake Love (2018 MGA Ver.),117,99
-96,BTS,FAKE LOVE (Japanese ver.),209,0
-97,BTS,FAKE LOVE (Rocking Vibe Mix),231,212
-98,BTS,Film out,59,0
-99,BTS,Filter,84,140
-100,BTS,FIRE (Japanese Ver.),163,0
-101,BTS,FIRST LOVE,24,290
-102,BTS,Fix You (MTV Unplugged),188,0
-103,BTS,Flying (Taehyung Theme),0,0
-104,BTS,내 방을 여행하는 법 (Fly to My Room),213,148
-105,BTS,FOR YOU,25,0
-106,BTS,For Youth,167,178
-107,BTS,친구 (Friends),70,181
-108,BTS,Friends (Hoseok Theme),0,0
-109,BTS,고민보다 Go (Go Go),197,181
-110,BTS,Go Go (Japanese Ver.),194,0
-111,BTS,Good Day,117,0
-112,BTS,졸업 (Graduation Song),38,197
-113,BTS,Heartbeat,168,165
-114,BTS,Her,156,267
-115,BTS,힙합성애자 (Hip Hop Phile / Hip Hop Lover),229,329
-116,BTS,잡아줘 (Hold Me Tight),66,300
-117,BTS,HOME,211,208
-118,BTS,Hook 가요 (Free fall / Hook Gayo),1020,263
-119,BTS,House of Cards (Full Length Edition),50,148
-120,BTS,IDOL,297,112
-121,BTS,IDOL (Japanese ver.),317,0
-122,BTS,If I Ruled the World,345,185
-123,BTS,いいね! (I Like It) (Japanese Ver.),241,0
-124,BTS,I’m Fine,164,208
-125,BTS,I NEED U,155,191
-126,BTS,I NEED U (Demo),61,146
-127,BTS,I NEED U (Japanese Ver.),152,0
-128,BTS,I NEED U (Urban Mix),155,191
-129,BTS,Inner Child,71,125
-130,BTS,Interlude,0,0
-131,BTS,Interlude: Shadow,259,284
-132,BTS,Interlude: 뭐해 (What Are You Doing Now),4,3
-133,BTS,Interlude: Wings,120,116
-134,BTS,In The SOOP,63,15
-135,BTS,INTRO.,6,0
-136,BTS,Intro: 2 Cool 4 Skool,64,9
-137,BTS,Intro: Boy Meets Evil,83,114
-138,BTS,INTRO : Calling,22,0
-139,BTS,Introduction: Youth,248,0
-140,BTS,INTRO : Never Mind,40,190
-141,BTS,"Intro: O!RUL8,2?",51,57
-142,BTS,Intro: Persona,151,261
-143,BTS,INTRO : Ringwanderung,39,0
-144,BTS,Intro: Serendipity (세렌디피티),80,89
-145,BTS,Intro: Singularity,13,114
-146,BTS,Intro: Skool Luv Affair,100,271
-147,BTS,Intro: 화양연화 (The Most Beautiful Moment In Life),13,174
-148,BTS,Intro: What am I to You,104,241
-149,BTS,IONIQ: I’m on it,167,65
-150,BTS,Jamais Vu,97,164
-151,BTS,JUMP,248,298
-152,BTS,Jump (Demo Ver.),163,186
-153,BTS,JUMP (Japanese Ver.),340,0
-154,BTS,하루만 (Just One Day),89,347
-155,BTS,Just One Day (Japanese Ver.),194,0
-156,BTS,Just One Day (Japanese Ver. Extended),220,0
-157,BTS,Let Go,262,0
-158,BTS,Let Me Know,129,280
-159,BTS,Let Me Know (Japanese Ver.),131,0
-160,BTS,Let’s Introduce BANGTAN ROOM,216,0
-161,BTS,LIE,63,152
-162,BTS,Life Goes On,108,172
-163,BTS,Lights,95,0
-164,BTS,좋아요 (Like / I Like It),211,241
-165,BTS,여기 봐 (Look Here),75,364
-166,BTS,Lost,97,187
-167,BTS,Louder than bombs,144,129
-168,BTS,Love Is Not Over (Full Length Edition),60,242
-169,BTS,Love Maze,164,225
-170,BTS,Love Yourself: 承 Her Notes,5127,0
-171,BTS,Love Yourself: 承 Her Thanks To,3397,0
-172,BTS,Love Yourself: 結 Answer Notes,5948,0
-173,BTS,Love Yourself: 轉 Tear Notes,4343,0
-174,BTS,Ma City,203,277
-175,BTS,Magic Shop,128,240
-176,BTS,Make It Right,145,197
-177,BTS,Make It Right (Japanese ver.),146,0
-178,BTS,MAMA,83,193
-179,BTS,MIC Drop,185,228
-180,BTS,MIC Drop (Japanese Ver.),186,0
-181,BTS,소우주 (Mikrokosmos),153,200
-182,BTS,Miss Right,153,318
-183,BTS,Miss Right (Japanese Ver.),151,0
-184,BTS,Moon,58,208
-185,BTS,이사 (Moving On),72,372
-186,BTS,시차 (My Time),458,62
-187,BTS,N.O,104,191
-188,BTS,N.O (Japanese Ver.),146,0
-189,BTS,No More Dream,107,319
-190,BTS,No More Dream (Japanese Ver.),241,0
-191,BTS,Not Alone (Jeongguk Theme),0,0
-192,BTS,Not Today,260,179
-193,BTS,Not Today (Japanese Ver.),243,0
-194,BTS,ON,312,149
-195,BTS,ON (Japanese ver.),330,0
-196,BTS,OUTRO,115,0
-197,BTS,Outro: Circle Room Cypher,219,543
-198,BTS,OUTRO : Crack,35,0
-199,BTS,Outro : 그게 말이 돼? (Do You Think It Makes Sense?),121,115
-200,BTS,Outro: Ego,177,149
-201,BTS,Outro: Her,143,266
-202,BTS,OUTRO : House Of Cards,36,111
-203,BTS,Outro : Love is Not Over,36,86
-204,BTS,OUTRO: LUV IN SKOOL,79,58
-205,BTS,Outro: Propose,51,77
-206,BTS,Outro: Tear,205,329
-207,BTS,OUTRO : The Journey,3,0
-208,BTS,Outro: Wings,194,155
-209,BTS,낙원 (Paradise / Nakwon),55,273
-210,BTS,ペップセ (Peppuse) (Silver Spoon) (Japanese Ver.),136,0
-211,BTS,Permission to Dance,488,0
-212,BTS,Permission to Dance (Instrumental),0,0
-213,BTS,Pied Piper,167,222
-214,BTS,좋아요! Pt.2 (I Like It Pt.2),44,270
-215,BTS,いいね!Pt.2 ～あの場所で～ (I Like It Pt.2 ~In That Place~ / Ano Bashode),28,0
-216,BTS,따옴표 (Quotation Mark),44,219
-217,BTS,Rain,14,388
-218,BTS,REFLECTION,78,141
-219,BTS,Respect,111,239
-220,BTS,길 (Road/Path),94,263
-221,BTS,RUN,107,254
-222,BTS,RUN (Alternative Mix),107,254
-223,BTS,RUN (Ballad Mix),106,254
-224,BTS,달려라 방탄 (RUN BTS),357,141
-225,BTS,Run It Down,38,0
-226,BTS,RUN (Japanese Ver.),114,0
-227,BTS,Run (Puma Blaze Time Ver.),42,70
-228,BTS,팔도강산 (Satoori Rap/Paldogangsan),47,298
-229,BTS,Save ME,176,180
-230,BTS,Save ME (Japanese Ver.),166,0
-231,BTS,학교의눈물 (School of Tears),39,219
-232,BTS,바다 (Sea),200,296
-233,BTS,Seesaw (Demo Ver.),0,0
-234,BTS,Serendipity (Full Length Edition),170,154
-235,BTS,Shine (Yunki Theme),0,0
-236,BTS,뱁새 (Silver Spoon / Baepsae),113,296
-237,BTS,Singularity,8,111
-238,BTS,Skit,43,412
-239,BTS,SKIT: Billboard Music Awards Speech,122,7
-240,BTS,Skit: Circle Room Talk,10,427
-241,BTS,Skit : Expectation!,7,323
-242,BTS,Skit: 망설임과 두려움 (Hesitation and Fear),1606,0
-243,BTS,SKIT : One night in a strange city,0,792
-244,BTS,Skit: On The Start Line,0,177
-245,BTS,Skit: R U Happy Now?,92,195
-246,BTS,Skit: Soulmate,65,165
-247,BTS,So 4 More,71,421
-248,BTS,"So Far Away (SUGA, Jin & Jung Kook Ver.)",112,275
-249,BTS,So What,261,189
-250,BTS,등골브레이커 (Spine Breaker),192,288
-251,BTS,봄날 (Spring Day),31,269
-252,BTS,Spring Day (Japanese Ver.),31,0
-253,BTS,봄날 (Spring Day) (V Demo Ver.),49,83
-254,BTS,Stay,126,119
-255,BTS,Stay Gold,137,0
-256,BTS,STIGMA,50,137
-257,BTS,Still With You (Acappella),35,164
-258,BTS,Take Two,227,119
-259,BTS,Tear,205,329
-260,BTS,잠시 (Telepathy),25,214
-261,BTS,화양연화 The Notes Pt. 1,277,0
-262,BTS,화양연화 The Notes Pt. 2,223,0
-263,BTS,화양연화 The Notes Pt. 3,875,0
-264,BTS,The Planet,350,101
-265,BTS,THE STARS,245,0
-266,BTS,전하지 못한 진심 (The Truth Untold),76,136
-267,BTS,Tomorrow,58,332
-268,BTS,Tony Montana (with Jimin),261,114
-269,BTS,Trivia 承: Love,233,270
-270,BTS,Trivia 起: Just Dance,135,201
-271,BTS,Trivia 轉: Seesaw,51,281
-272,BTS,Trouble,247,63
-273,BTS,욱 (UGH!),30,336
-274,BTS,Wake Up,272,0
-275,BTS,호르몬 전쟁 (War of Hormone),190,347
-276,BTS,We Are B.P.B,60,138
-277,BTS,We Are Bulletproof Pt. 1 (4 BEGINS Ruff),340,128
-278,BTS,"We Are Bulletproof, Pt. 2",177,165
-279,BTS,We Are Bulletproof : The Eternal,239,119
-280,BTS,We On,244,295
-281,BTS,Whalien 52,132,307
-282,BTS,어디에서 왔는지 (Where Did You Come From),26,360
-283,BTS,Wishing On a Star,240,0
-284,BTS,Wishing On A Star (Korean Version),259,205
-285,BTS,Wish (Seok Jin Theme),0,0
-286,BTS,With SEOUL,92,186
-287,BTS,Yet To Come,264,159
-288,BTS,Yet To Come (Hyundai Ver.),395,105
-289,BTS,Young Forever (RM Demo Ver.),61,104
-290,BTS,Young Forever (Unplugged Ver.),47,174
-291,BTS,애매한 사이 (Young Love),133,186
-292,BTS,You’re so Beautiful,90,26
-293,BTS,Your eyes tell,28,0
-294,BTS,フンタン少年団 (Boyz With Fun) (Japanese Ver.),103,0
-295,BTS,ホルモン戦争 (Hormone Sensou/War of Hormone) (Japanese Ver.),185,0
-296,BTS,"血、汗、淚 (Blood Sweat & Tears / Chi, Ase, Namida) (Japanese Ver.)",31,0
-297,BTS,進撃の防弾 (Attack on Bangtan/The Rise of Bangtan) (Japanese Ver.),152,0
-298,(G)I-DLE,Allergy,257,74
-299,(G)I-DLE,All Night,231,56
-300,(G)I-DLE,ALREADY,204,103
-301,(G)I-DLE,Blow Your Mind,200,87
-302,(G)I-DLE,Change,369,29
-303,(G)I-DLE,DAHLIA,119,146
-304,(G)I-DLE,DARK (X-file),82,113
-305,(G)I-DLE,달라 (DOLLAR) ($$$),242,177
-306,(G)I-DLE,DON’T TEXT ME,33,278
-307,(G)I-DLE,덤디덤디 (DUMDi DUMDi),124,180
-308,(G)I-DLE,DUMDi DUMDi (Chinese Version),163,0
-309,(G)I-DLE,DUMDi DUMDi (Japanese Version),142,0
-310,(G)I-DLE,ESCAPE,181,132
-311,(G)I-DLE,FIRE,192,259
-312,(G)I-DLE,For You,97,0
-313,(G)I-DLE,주세요 (Give Me Your),46,215
-314,(G)I-DLE,HANN (Japanese Version),133,2
-315,(G)I-DLE,들어줘요 (HEAR ME),15,192
-316,(G)I-DLE,Help Me,221,142
-317,(G)I-DLE,Help Me (Instrumental),0,0
-318,(G)I-DLE,화 (HWAA),25,147
-319,(G)I-DLE,HWAA (English Version),332,0
-320,(G)I-DLE,I DO,273,0
-321,(G)I-DLE,​i’M THE TREND,254,116
-322,(G)I-DLE,Last Dance,83,198
-323,(G)I-DLE,LATATA,139,170
-324,(G)I-DLE,LATATA (English Version),452,0
-325,(G)I-DLE,LATATA (Japanese Ver.),150,0
-326,(G)I-DLE,LIAR,231,66
-327,(G)I-DLE,Light My Fire,267,0
-328,(G)I-DLE,LION,119,197
-329,(G)I-DLE,LOST,100,143
-330,(G)I-DLE,LOVE,292,94
-331,(G)I-DLE,Lucid,155,85
-332,(G)I-DLE,사랑해 (Luv U),101,139
-333,(G)I-DLE,Maybe,45,80
-334,(G)I-DLE,MAZE,120,166
-335,(G)I-DLE,MAZE (Japanese Version),120,0
-336,(G)I-DLE,MOON,158,76
-337,(G)I-DLE,MY BAG,332,102
-338,(G)I-DLE,말리지 마 (Never Stop Me),197,85
-339,(G)I-DLE,Ninety Nine,223,0
-340,(G)I-DLE,Nxde,233,115
-341,(G)I-DLE,Oh my god,133,154
-342,(G)I-DLE,Oh my god (5 Members Ver.),133,154
-343,(G)I-DLE,Oh my god (English Version),443,0
-344,(G)I-DLE,Oh my god (Japanese Version),138,0
-345,(G)I-DLE,Paradise,176,117
-346,(G)I-DLE,어린 어른 (Peter Pan),25,241
-347,(G)I-DLE,POLAROID,234,64
-348,(G)I-DLE,싫다고 말해 (Put It Straight),12,180
-349,(G)I-DLE,싫다고 말해 (Put It Straight) [Nightmare Version],12,226
-350,(G)I-DLE,퀸카 (Queencard),226,98
-351,(G)I-DLE,달려! (Relay!),216,172
-352,(G)I-DLE,달려! (Relay) [Instrumental],0,0
-353,(G)I-DLE,Reset,30,160
-354,(G)I-DLE,조각품 (Sculpture),77,147
-355,(G)I-DLE,Senorita,166,127
-356,(G)I-DLE,Senorita (Japanese Version),158,8
-357,(G)I-DLE,Show,17,119
-358,(G)I-DLE,Show (Instrumental),0,0
-359,(G)I-DLE,TOMBOY,352,58
-360,(G)I-DLE,TOMBOY (Explicit Version),354,57
-361,(G)I-DLE,TOMBOY (Festival Ver.),347,58
-362,(G)I-DLE,Tung-Tung (Empty),23,0
-363,(G)I-DLE,Uh-Oh,122,192
-364,(G)I-DLE,Uh-Oh (Japanese Version),104,2
-365,(G)I-DLE,VILLAIN DIES,199,79
-366,(G)I-DLE,VILLAIN DIES (GDA Ver.),192,66
-367,(G)I-DLE,알고 싶어 (What’s in your house?),319,128
-368,(G)I-DLE,What’s Your Name,180,198
-369,(G)I-DLE,Where is love,96,106
-370,(G)I-DLE,한(一) (HANN (Alone)),131,219
-371,(G)I-DLE,한 (寒) (HANN (Alone in winter)),68,95
-372,(G)I-DLE,火/花 (HWAA) (Chinese Version),28,0
-373,FIFTY FIFTY,Barbie Dreams,391,0
-374,FIFTY FIFTY,Barbie Dreams (Mixed),401,0
-375,FIFTY FIFTY,Cupid,266,74
-376,FIFTY FIFTY,Cupid (Instrumental),0,0
-377,FIFTY FIFTY,Cupid (Twin Version),348,0
-378,FIFTY FIFTY,Cupid – Twin Version (Snack),102,0
-379,FIFTY FIFTY,Cupid (Twin Ver.) [Slowed Down Version],349,0
-380,FIFTY FIFTY,Cupid (Twin Ver.) - Sped Up Version,349,0
-381,FIFTY FIFTY,Higher,182,133
-382,FIFTY FIFTY,Log in,329,120
-383,FIFTY FIFTY,Lovin’ Me,242,93
-384,FIFTY FIFTY,Tell Me,428,90
-385,AESPA,2022 United Nations General Assembly Speech,246,1
-386,AESPA,ænergy,159,39
-387,AESPA,Better Things,611,1
-388,AESPA,Black Mamba,160,111
-389,AESPA,Don’t Blink,173,137
-390,AESPA,Dreams Come True,282,107
-391,AESPA,Dreams Come True (Instrumental),0,0
-392,AESPA,Forever (약속),40,150
-393,AESPA,Girls,154,194
-394,AESPA,Hold On Tight,320,1
-395,AESPA,ICONIC,284,147
-396,AESPA,ICU (쉬어가도 돼),173,126
-397,AESPA,I’ll Make You Cry,311,156
-398,AESPA,도깨비불 (Illusion),216,156
-399,AESPA,I’m Unhappy,197,113
-400,AESPA,Life’s Too Short,192,144
-401,AESPA,Life’s Too Short (English Ver.),512,1
-402,AESPA,Life’s Too Short (Instrumental),0,0
-403,AESPA,Lingo,184,135
-404,AESPA,자각몽 (Lucid Dream),180,242
-405,AESPA,Next Level,218,153
-406,AESPA,Salty & Sweet,284,100
-407,AESPA,Savage,369,216
-408,AESPA,Spicy,369,114
-409,AESPA,Thirsty,236,166
-410,AESPA,’Til We Meet Again,124,140
-411,AESPA,We Go,87,167
-412,AESPA,We Go (Instrumental),0,0
-413,AESPA,Welcome To MY World,240,88
-414,AESPA,YEPPI YEPPI,237,184
-415,BLACKPINK,마지막처럼 (AS IF IT’S YOUR LAST),158,173
-416,BLACKPINK,AS IF IT’S YOUR LAST -Japanese Ver.-,150,0
-417,BLACKPINK,AS IF IT’S YOUR LAST - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-,141,0
-418,BLACKPINK,AS IF IT’S YOUR LAST -JP Ver.- (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),141,0
-419,BLACKPINK,"Awesome Screen, Awesome Camera",127,0
-420,BLACKPINK,Bet You Wanna,524,0
-421,BLACKPINK,붐바야 (BOOMBAYAH),227,157
-422,BLACKPINK,BOOMBAYAH -Japanese Ver.-,340,0
-423,BLACKPINK,BOOMBAYAH - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-,368,4
-424,BLACKPINK,BOOMBAYAH -JP Ver.- (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),368,4
-425,BLACKPINK,Crazy Over You,385,0
-426,BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU),260,139
-427,BLACKPINK,DDU-DU DDU-DU -JP Ver.-,345,0
-428,BLACKPINK,DDU-DU DDU-DU - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-,280,0
-429,BLACKPINK,DDU-DU DDU-DU -JP Ver.- (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),280,0
-430,BLACKPINK,Don’t Know What To Do,162,103
-431,BLACKPINK,Don’t Know What To Do (Japanese Ver.),162,0
-432,BLACKPINK,Don’t Know What To Do - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-,145,0
-433,BLACKPINK,Forever Young,253,142
-434,BLACKPINK,FOREVER YOUNG -JP Ver.-,247,0
-435,BLACKPINK,FOREVER YOUNG - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-,250,0
-436,BLACKPINK,FOREVER YOUNG -JP Ver.- (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),250,0
-437,BLACKPINK,For The Love (Pepsi Ad),78,0
-438,BLACKPINK,Hard to Love,293,0
-439,BLACKPINK,아니길 (Hope Not),44,150
-440,BLACKPINK,Hope Not (Japanese Ver.),97,0
-441,BLACKPINK,How You Like That,353,72
-442,BLACKPINK,How You Like That - JP Ver.-,376,6
-443,BLACKPINK,Kick It,237,143
-444,BLACKPINK,Kick It (Japanese Ver.),237,0
-445,BLACKPINK,Kick It - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-,237,0
-446,BLACKPINK,Kill This Love,264,91
-447,BLACKPINK,Kill This Love (Japanese Ver.),306,0
-448,BLACKPINK,Kill This Love - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-,299,0
-449,BLACKPINK,Kiss and Make Up (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),435,44
-450,BLACKPINK,Last Christmas ~ Rudolph the Red-nosed Reindeer (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),172,0
-451,BLACKPINK,LET IT BE ~ YOU & I ~ ONLY LOOK AT ME / ROSÉ (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),96,154
-452,BLACKPINK,Lovesick Girls,203,142
-453,BLACKPINK,Lovesick Girls -JP Ver.-,203,0
-454,BLACKPINK,Love To Hate Me,466,0
-455,BLACKPINK,One By Way,337,0
-456,BLACKPINK,Pink Venom,400,72
-457,BLACKPINK,Pink Venom (Mixed),395,72
-458,BLACKPINK,불장난 (PLAYING WITH FIRE),119,145
-459,BLACKPINK,PLAYING WITH FIRE -Japanese Ver.-,183,6
-460,BLACKPINK,PLAYING WITH FIRE - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-,184,6
-461,BLACKPINK,PLAYING WITH FIRE -JP Ver.- (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),184,6
-462,BLACKPINK,Pretty Savage,277,93
-463,BLACKPINK,Pretty Savage -JP Ver.-,297,0
-464,BLACKPINK,Price Tag / Lonely / You & I / The Lazy Song,221,42
-465,BLACKPINK,Ready For Love,274,103
-466,BLACKPINK,Really,235,144
-467,BLACKPINK,REALLY -JP Ver.-,237,0
-468,BLACKPINK,REALLY - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-,237,0
-469,BLACKPINK,REALLY -JP Ver.- (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),237,0
-470,BLACKPINK,See U Later,260,172
-471,BLACKPINK,SEE U LATER -JP Ver.-,266,0
-472,BLACKPINK,SEE U LATER - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-,267,0
-473,BLACKPINK,SEE U LATER -JP Ver.- (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),267,0
-474,BLACKPINK,Shut Down,393,57
-475,BLACKPINK,SOLO (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),207,89
-476,BLACKPINK,STAY,206,179
-477,BLACKPINK,STAY -Japanese Ver.-,279,0
-478,BLACKPINK,STAY -JP Ver.- (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),280,0
-479,BLACKPINK,Sure Thing,628,0
-480,BLACKPINK,Tally,433,0
-481,BLACKPINK,THE GIRLS,400,0
-482,BLACKPINK,The Happiest Girl,406,0
-483,BLACKPINK,Typa Girl,460,0
-484,BLACKPINK,휘파람 (WHISTLE),160,198
-485,BLACKPINK,휘파람 (WHISTLE) - Acoustic Ver.,160,194
-486,BLACKPINK,WHISTLE (Acoustic Ver.) -Japanese Ver.-,284,0
-487,BLACKPINK,WHISTLE -Acoustic Ver.- -JP Ver.- (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),285,0
-488,BLACKPINK,WHISTLE (Japanese Ver.),284,0
-489,BLACKPINK,WHISTLE - JP Ver./ BLACKPINK 2019-2020 WORLD TOUR IN YOUR AREA -TOKYO DOME-,285,0
-490,BLACKPINK,Yeah Yeah Yeah,62,84
-491,BLACKPINK,You Never Know,201,169
-492,BLACKPINK,You Never Know -JP Ver.-,202,0
-493,BLACKPINK,雪の華 (Yukino Hana) / JISOO (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),11,0
-494,TWICE,"1, 3, 2",206,168
-495,TWICE,1 TO 10,104,198
-496,TWICE,21:29,98,124
-497,TWICE,21:29 (Japanese ver.),119,0
-498,TWICE,24/7,172,145
-499,TWICE,AFTER MOON,72,139
-500,TWICE,Alcohol-Free,107,168
-501,TWICE,Alcohol-Free (Instrumental),0,0
-502,TWICE,Alcohol-Free -Japanese ver.-,117,0
-503,TWICE,Archive Voice Memo,67,0
-504,TWICE,Baby Blue Love,265,62
-505,TWICE,Basics,252,138
-506,TWICE,BDZ,138,0
-507,TWICE,BDZ (Korean Ver.),124,164
-508,TWICE,Be as ONE,13,0
-509,TWICE,Be as ONE (Korean Version),10,211
-510,TWICE,BEHIND THE MASK,228,73
-511,TWICE,BELIEVER,122,122
-512,TWICE,Be OK,179,0
-513,TWICE,BETTER,184,0
-514,TWICE,BETTER (Instrumental),0,0
-515,TWICE,Bitter Sweet,170,0
-516,TWICE,BLAME IT ON ME,290,74
-517,TWICE,BRAND NEW GIRL,259,0
-518,TWICE,BRAND NEW GIRL (Instrumental),0,0
-519,TWICE,Brave,311,129
-520,TWICE,Breakthrough,198,0
-521,TWICE,Breakthrough (Instrumental),0,0
-522,TWICE,BREAKTHROUGH (Korean Version),195,165
-523,TWICE,BRING IT BACK,276,132
-524,TWICE,선인장 (CACTUS),58,126
-525,TWICE,CANDY,358,0
-526,TWICE,Candy Boy,191,84
-527,TWICE,Candy Pop,191,0
-528,TWICE,Candy Pop (Instrumental),0,0
-529,TWICE,Catch a Wave,409,0
-530,TWICE,Catch a Wave (Instrumental),0,0
-531,TWICE,Celebrate,249,0
-532,TWICE,Changing!,153,0
-533,TWICE,CHEER UP,121,240
-534,TWICE,CHEER UP (Instrumental),0,0
-535,TWICE,CHEER UP (Japanese ver.),124,0
-536,TWICE,CHILLAX,135,204
-537,TWICE,Complete Voice Memo,66,0
-538,TWICE,Conversation,194,91
-539,TWICE,CRAZY STUPID LOVE,258,89
-540,TWICE,CRUEL,317,62
-541,TWICE,CRY FOR ME,251,127
-542,TWICE,CRY FOR ME (English Ver.),513,0
-543,TWICE,CRY FOR ME -Japanese ver.-,251,0
-544,TWICE,Cryptography Voice Memo,60,0
-545,TWICE,Dance the Night Away,213,124
-546,TWICE,Dance The Night Away (Japanese ver.),245,0
-547,TWICE,DEJAVU,186,194
-548,TWICE,DEPEND ON YOU,188,137
-549,TWICE,DING DONG,182,173
-550,TWICE,다시 해줘 (Do It Again),110,244
-551,TWICE,DON’T CALL ME AGAIN,171,75
-552,TWICE,힘내! (DON’T GIVE UP),81,187
-553,TWICE,Doughnut,94,0
-554,TWICE,Doughnut (Instrumental),0,0
-555,TWICE,DO WHAT WE LIKE,247,87
-556,TWICE,ESPRESSO,248,210
-557,TWICE,Eye Eye Eyes,137,230
-558,TWICE,Fake & True,175,0
-559,TWICE,FANCY,129,176
-560,TWICE,FANCY (Japanese ver.),133,0
-561,TWICE,Fanfare,120,0
-562,TWICE,Fanfare (Instrumental),0,0
-563,TWICE,Feel Special,114,167
-564,TWICE,Feel Special (2023 Ver.),137,161
-565,TWICE,Feel Special (Japanese ver.),116,0
-566,TWICE,FFW,186,223
-567,TWICE,F.I.L.A (Fall In Love Again),333,65
-568,TWICE,FIREWORK,95,187
-569,TWICE,First Time,198,116
-570,TWICE,Flow like waves,354,0
-571,TWICE,Four-leaf Clover,291,0
-572,TWICE,GET LOUD,158,247
-573,TWICE,GIRLS LIKE US,137,92
-574,TWICE,GO HARD,206,95
-575,TWICE,미쳤나봐 (Going Crazy),100,165
-576,TWICE,Gone,167,121
-577,TWICE,Good at Love,349,0
-578,TWICE,GOT THE THRILLS,277,113
-579,TWICE,HANDLE IT,141,118
-580,TWICE,HAPPY HAPPY,253,0
-581,TWICE,HAPPY HAPPY (Instrumental),0,0
-582,TWICE,Hare Hare,311,0
-583,TWICE,Hare Hare (Instrumental),0,0
-584,TWICE,Headphone 써 (My Headphones On),68,178
-585,TWICE,Heart Shaker,181,163
-586,TWICE,Heart Shaker (Japanese ver.),196,0
-587,TWICE,HELL IN HEAVEN,165,109
-588,TWICE,HELLO,319,110
-589,TWICE,HO!,157,214
-590,TWICE,Hold Me Tight,52,187
-591,TWICE,HOT,223,95
-592,TWICE,How u doin’,196,0
-593,TWICE,I CAN’T STOP ME,316,158
-594,TWICE,I CAN’T STOP ME (English Version),631,0
-595,TWICE,I CAN’T STOP ME -Japanese ver.-,338,0
-596,TWICE,Ice Cream (녹아요),23,173
-597,TWICE,ICON,484,0
-598,TWICE,누구보다 널 사랑해 (I love you more than anyone),126,150
-599,TWICE,누구보다 널 사랑해 (I love you more than anyone) (Instrumental),0,0
-600,TWICE,I’m Gonna Be a Star,434,99
-601,TWICE,In the summer,240,0
-602,TWICE,I WANT YOU BACK,552,0
-603,TWICE,"잘자요 굿나잇 (JALJAYO, GOOD NIGHT)",30,155
-604,TWICE,JELLY JELLY,142,181
-605,TWICE,Just be yourself,201,0
-606,TWICE,KNOCK KNOCK,284,150
-607,TWICE,KNOCK KNOCK (Japanese ver.),301,0
-608,TWICE,Kura Kura,143,0
-609,TWICE,Kura Kura (Instrumental),0,0
-610,TWICE,LALALA,146,133
-611,TWICE,LAST WALTZ,168,139
-612,TWICE,Like a Fool,90,131
-613,TWICE,Like OOH-AHH (Japanese ver.),133,6
-614,TWICE,LIKEY,100,187
-615,TWICE,LIKEY (Japanese ver.),101,0
-616,TWICE,날 바라바라봐 (LOOK AT ME),130,222
-617,TWICE,L.O.V.E,178,0
-618,TWICE,LOVE FOOLISH,147,100
-619,TWICE,LOVE LINE,119,213
-620,TWICE,LUV ME,197,0
-621,TWICE,LUV ME (Instrumental),0,0
-622,TWICE,MAKE ME GO,387,115
-623,TWICE,Merry & Happy,61,153
-624,TWICE,MISSING U,176,158
-625,TWICE,MOONLIGHT,492,0
-626,TWICE,MOONLIGHT SUNRISE,484,0
-627,TWICE,MOONLIGHT SUNRISE (Instrumental),0,0
-628,TWICE,MORE & MORE,169,165
-629,TWICE,MORE & MORE (English Version),483,0
-630,TWICE,MORE & MORE (Japanese ver.),169,0
-631,TWICE,"MOVE (Momo, Mina, Dahyun, Chaeyoung)",138,148
-632,TWICE,NEXT PAGE,167,197
-633,TWICE,ONE IN A MILLION,134,119
-634,TWICE,ONE MORE TIME,164,0
-635,TWICE,One More Time (Instrumental),0,0
-636,TWICE,Only 너 (Only You),190,222
-637,TWICE,OOH-AHH하게 (Like OOH-AHH),120,217
-638,TWICE,OOH-AHH 하게 (LIKE OOH-AHH) [Instrumental],0,0
-639,TWICE,OXYGEN,175,185
-640,TWICE,Pathfinder Voice Memo,62,0
-641,TWICE,Perfect World,233,0
-642,TWICE,PIECES OF LOVE,297,0
-643,TWICE,Pink Lemonade,211,0
-644,TWICE,Pink Lemonade (Instrumental),0,0
-645,TWICE,PIT-A-PAT,144,188
-646,TWICE,POLISH,173,0
-647,TWICE,PONYTAIL,126,137
-648,TWICE,소중한 사랑 (Precious Love),14,213
-649,TWICE,PROMISE,78,0
-650,TWICE,PUSH & PULL,244,181
-651,TWICE,QUEEN,281,157
-652,TWICE,Queen of Hearts,454,0
-653,TWICE,RAINBOW,152,130
-654,TWICE,Ready To Be with Dahyun & Chaeyoung & Tzuyu,71,0
-655,TWICE,Ready To Be with Jeongyeon & Momo,118,0
-656,TWICE,Ready To Be with Jihyo & Nayeon,71,0
-657,TWICE,Ready To Be with Sana & Mina,103,0
-658,TWICE,REAL YOU,150,202
-659,TWICE,알고 싶지 않아 (REWIND),7,160
-660,TWICE,ROLLIN’,80,181
-661,TWICE,Sandcastle,101,0
-662,TWICE,Say It Again,195,0
-663,TWICE,SAY SOMETHING,113,123
-664,TWICE,SAY YES,88,174
-665,TWICE,SAY YOU LOVE ME,148,213
-666,TWICE,Scandal,298,56
-667,TWICE,SCIENTIST,255,154
-668,TWICE,SCIENTIST -Japanese ver.-,256,0
-669,TWICE,Scorpion,177,0
-670,TWICE,Scorpion (Instrumental),0,0
-671,TWICE,SET ME FREE,249,159
-672,TWICE,SET ME FREE (ENG),529,0
-673,TWICE,SHADOW,73,174
-674,TWICE,SHOT CLOCK,313,142
-675,TWICE,Shot thru the heart,174,211
-676,TWICE,SIGNAL,44,234
-677,TWICE,SIGNAL (Japanese ver.),67,0
-678,TWICE,Someone Like Me,89,192
-679,TWICE,SOS,241,82
-680,TWICE,STAY BY MY SIDE,168,0
-681,TWICE,STRAWBERRY,187,159
-682,TWICE,Strawberry Moon,93,0
-683,TWICE,Strawberry Moon (Instrumental),0,0
-684,TWICE,Stronger,117,0
-685,TWICE,STUCK,112,237
-686,TWICE,STUCK IN MY HEAD,298,178
-687,TWICE,STUCK IN MY HEAD (Japanese ver.),315,0
-688,TWICE,SUNSET,72,243
-689,TWICE,SWEET SUMMER DAY,171,148
-690,TWICE,SWEET TALKER,116,187
-691,TWICE,SWING,142,0
-692,TWICE,Talk that Talk,257,157
-693,TWICE,"Thank you, Family",47,0
-694,TWICE,That’s all I’m saying,171,0
-695,TWICE,올해 제일 잘한 일 (The Best Thing I Ever Did),86,195
-696,TWICE,The Best Thing I Ever Did (Japanese ver.),88,0
-697,TWICE,The Feels,634,0
-698,TWICE,The Feels (Instrumental),0,0
-699,TWICE,The Feels (Korean Ver.),434,132
-700,TWICE,The Feels Voice Memo 1: Dahyun & Tzuyu,143,0
-701,TWICE,The Feels Voice Memo 2: Momo & Mina,147,0
-702,TWICE,The Feels Voice Memo 3: Nayeon & Chaeyoung,189,0
-703,TWICE,The Feels Voice Memo 4: Sana & Jihyo,159,6
-704,TWICE,The Reason Why,56,0
-705,TWICE,하루에 세번 (Three Times a Day),27,236
-706,TWICE,TICK TOCK,239,0
-707,TWICE,Touchdown,174,164
-708,TWICE,TRICK IT,329,133
-709,TWICE,Trouble,374,99
-710,TWICE,Truth,368,113
-711,TWICE,TT,132,229
-712,TWICE,TT (Instrumental),0,0
-713,TWICE,TT (Japanese ver.),142,0
-714,TWICE,툭하면 톡 (Tuk Tok),108,229
-715,TWICE,TURN IT UP,296,177
-716,TWICE,거북이 (TURTLE),38,213
-717,TWICE,트와이스 송 (TWICE Song),46,152
-718,TWICE,UP NO MORE,186,196
-719,TWICE,Voice Memo 1,134,0
-720,TWICE,Voice memo 1 from TWICE,144,0
-721,TWICE,Voice Memo 2,150,4
-722,TWICE,Voice memo 2 from TWICE,249,0
-723,TWICE,Voice Memo 3,116,2
-724,TWICE,Voice Memo 4,139,0
-725,TWICE,Voices of Delight,278,0
-726,TWICE,Wake Me Up,218,0
-727,TWICE,Wake Me Up (Instrumental),0,0
-728,TWICE,WALLFLOWER,253,86
-729,TWICE,What Is Love?,143,188
-730,TWICE,What is Love? (Japanese ver.),144,0
-731,TWICE,What You Waiting For,496,0
-732,TWICE,When We Were Kids,211,112
-733,TWICE,Wishing,18,0
-734,TWICE,Wonderful Day,150,0
-735,TWICE,Wonderful Day (Instrumental),0,0
-736,TWICE,Woohoo,231,178
-737,TWICE,WOW,70,212
-738,TWICE,YES or YES,192,226
-739,TWICE,YES or YES (Japanese ver.),201,0
-740,TWICE,널 내게 담아 (YOU IN MY HEART),16,255
-741,TWICE,YOUNG & WILD,132,199
-742,Enhyphen,10 Months,68,140
-743,Enhyphen,A Kind Of Magic (Coke Studio Session),182,1
-744,Enhyphen,Always,232,1
-745,Enhyphen,"Attention, please!",87,191
-746,Enhyphen,Bills,150,137
-747,Enhyphen,Bills (Japanese Version),150,1
-748,Enhyphen,BILLY POCO,78,128
-749,Enhyphen,BILLY POCO (Instrumental),0,0
-750,Enhyphen,Bite Me,238,90
-751,Enhyphen,Bite Me (Japanese Version),238,1
-752,Enhyphen,Blessed-Cursed,218,151
-753,Enhyphen,Blessed-Cursed (Japanese Ver.),222,1
-754,Enhyphen,Blockbuster (액션 영화처럼),171,223
-755,Enhyphen,BLOSSOM,120,1
-756,Enhyphen,Chaconne,93,159
-757,Enhyphen,CRIMINAL LOVE,284,132
-758,Enhyphen,Drunk-Dazed,125,165
-759,Enhyphen,Drunk-Dazed (Japanese Ver.),135,1
-760,Enhyphen,가족송 (Family Song),10,82
-761,Enhyphen,Fate,47,163
-762,Enhyphen,FEVER,71,146
-763,Enhyphen,Flicker,17,189
-764,Enhyphen,Foreshadow,67,66
-765,Enhyphen,Forget Me Not,25,1
-766,Enhyphen,Future Perfect (Pass the MIC),240,143
-767,Enhyphen,Future Perfect (Pass the MIC) (Japanese Ver.),239,1
-768,Enhyphen,Given-Taken,99,184
-769,Enhyphen,Given-Taken (Japanese Ver.),115,1
-770,Enhyphen,모 아니면 도 (Go Big or Go Home),212,120
-771,Enhyphen,HEY TAYO (Tayo Opening Theme Song),21,112
-772,Enhyphen,HEY TAYO (Tayo Opening Theme Song) (Instrumental),0,0
-773,Enhyphen,구해줘 (I Need the Light),263,124
-774,Enhyphen,구해줘 (I Need The Light) (Inst.),0,0
-775,Enhyphen,Interlude : Question,109,1
-776,Enhyphen,Intro : The Invitation,139,1
-777,Enhyphen,Intro : Walk The Line,106,20
-778,Enhyphen,Intro : Whiteout,144,1
-779,Enhyphen,몰랐어 (Just A Little Bit),93,151
-780,Enhyphen,몰랐어 (Just A Little Bit) (Carol ver.),94,151
-781,Enhyphen,Karma,146,134
-782,Enhyphen,Let Me In (20 CUBE),313,109
-783,Enhyphen,Let Me In (20 CUBE) (Japanese Ver.),315,1
-784,Enhyphen,Make the change,178,1
-785,Enhyphen,별안간 (Mixed Up),78,209
-786,Enhyphen,Not for Sale,66,125
-787,Enhyphen,One and Only,223,91
-788,Enhyphen,One In A Billion,210,112
-789,Enhyphen,Outro : Cross the Line,93,1
-790,Enhyphen,Outro : Day 2,134,1
-791,Enhyphen,Outro : The Wormhole,124,1
-792,Enhyphen,ParadoXXX Invasion,206,129
-793,Enhyphen,Polaroid Love,103,125
-794,Enhyphen,Sacrifice (Eat Me Up),137,147
-795,Enhyphen,SHOUT OUT,189,187
-796,Enhyphen,Tamed-Dashed,173,144
-797,Enhyphen,Tamed-Dashed (Japanese Ver.),178,1
-798,Enhyphen,TFW (That Feeling When),203,116
-799,Enhyphen,Upper Side Dreamin’,168,162
-800,Enhyphen,WALK THE LINE,89,59
-801,Enhyphen,ZERO MOMENT,248,1
-802,Enhyphen,ZERO MOMENT (Instrumental),0,0
-803,Stray Kids,0325,171,152
-804,Stray Kids,0325 (SKZ2021 Ver.),171,152
-805,Stray Kids,19,53,321
-806,Stray Kids,19 (SKZ2020 Ver.),53,321
-807,Stray Kids,24 to 25,158,124
-808,Stray Kids,3RACHA,247,249
-809,Stray Kids,3rd Eye,97,286
-810,Stray Kids,3rd Eye (SKZ2021 Ver.),98,274
-811,Stray Kids,4419,24,266
-812,Stray Kids,비행기 (Airplane),150,269
-813,Stray Kids,ALL IN,195,0
-814,Stray Kids,ALL IN (Korean Ver.),128,248
-815,Stray Kids,일상 (Another Day),6,192
-816,Stray Kids,아니 (Any),97,305
-817,Stray Kids,Astronaut,90,219
-818,Stray Kids,Awaken,90,255
-819,Stray Kids,Awaken (SKZ2021 Ver.),91,255
-820,Stray Kids,갑자기 분위기 싸해질 필요 없잖아요 (Awkward Silence),52,248
-821,Stray Kids,갑자기 분위기 싸해질 필요 없잖아요 (Awkward Silence) (SKZ2020 Ver.),52,248
-822,Stray Kids,Back Door,117,194
-823,Stray Kids,Back Door -Japanese ver.-,234,0
-824,Stray Kids,Battle Ground,278,0
-825,Stray Kids,그림자도 빛이 있어야 존재 (Behind The Light),144,315
-826,Stray Kids,BEWARE (Grrr 총량의 법칙),47,236
-827,Stray Kids,BEWARE (Grrr 총량의 법칙) (SKZ2020 Ver.),48,236
-828,Stray Kids,청사진 (Blueprint),78,368
-829,Stray Kids,B Me,192,198
-830,Stray Kids,Booster,70,264
-831,Stray Kids,Boxer,107,264
-832,Stray Kids,BOXER (SKZ2020 Ver.),117,264
-833,Stray Kids,고장난 나침반 (Broken Compass),134,341
-834,Stray Kids,Butterflies,147,0
-835,Stray Kids,Butterflies (Instrumental),0,0
-836,Stray Kids,CALL,148,0
-837,Stray Kids,나 너 좋아하나봐 (Can’t Stop),158,161
-838,Stray Kids,CASE 143,311,128
-839,Stray Kids,CASE 143 -Japanese ver.-,347,0
-840,Stray Kids,Charmer,158,141
-841,Stray Kids,CHEESE,169,166
-842,Stray Kids,식혀 (CHILL),82,301
-843,Stray Kids,CHILL -Japanese ver.-,134,0
-844,Stray Kids,Christmas EveL,124,172
-845,Stray Kids,Chronosaurus,81,160
-846,Stray Kids,Chronosaurus (SKZ2020 Ver.),81,160
-847,Stray Kids,CIRCUS,333,2
-848,Stray Kids,CIRCUS (Korean Ver.),309,128
-849,Stray Kids,충돌 (Collision),81,198
-850,Stray Kids,District 9,112,240
-851,Stray Kids,District 9 (SKZ2020 Ver.),112,239
-852,Stray Kids,DLC,304,69
-853,Stray Kids,DLMLU,110,0
-854,Stray Kids,DOMINO,156,196
-855,Stray Kids,DOMINO (English Ver.),539,0
-856,Stray Kids,Double Knot,84,207
-857,Stray Kids,Double Knot (Album Version),86,207
-858,Stray Kids,Double Knot (English Ver.),420,0
-859,Stray Kids,Double Knot -Japanese ver.-,213,0
-860,Stray Kids,Easy,207,243
-861,Stray Kids,Entrance,45,0
-862,Stray Kids,미친 놈 (Ex),34,309
-863,Stray Kids,Fairytale,47,0
-864,Stray Kids,FAM,166,4
-865,Stray Kids,FAM (Korean Ver.),87,267
-866,Stray Kids,FNF,261,99
-867,Stray Kids,For You,111,230
-868,Stray Kids,For You (English Translations),448,0
-869,Stray Kids,땡 (FREEZE),73,247
-870,Stray Kids,Get Cool,187,201
-871,Stray Kids,Get Cool (SKZ2020 Ver.),185,201
-872,Stray Kids,죽어보자 (GET LIT),163,196
-873,Stray Kids,Give Me Your TMI,126,239
-874,Stray Kids,GLOW,30,337
-875,Stray Kids,신뚜두뚜두 (God’s DDU-DU DDU-DU),366,171
-876,Stray Kids,Gone Away,40,196
-877,Stray Kids,GO生,69,105
-878,Stray Kids,잘 하고 있어 (Grow Up),76,252
-879,Stray Kids,잘 하고 있어 (Grow Up) (SKZ2020 Ver.),76,252
-880,Stray Kids,위인전 (Hall of Fame),210,135
-881,Stray Kids,Haven,159,148
-882,Stray Kids,Hellevator,64,249
-883,Stray Kids,Hellevator (SKZ2020 Ver.),65,249
-884,Stray Kids,Hello Stranger,40,250
-885,Stray Kids,Hello Stranger (Instrumental),0,0
-886,Stray Kids,해장국 (Hero’s Soup),8,226
-887,Stray Kids,HEYDAY,223,116
-888,Stray Kids,Hoodie Season,58,347
-889,Stray Kids,I am YOU,111,268
-890,Stray Kids,I am YOU (SKZ2020 Ver.),112,268
-891,Stray Kids,기도 (I’ll Be Your Man) (Stray Kids Ver.),120,263
-892,Stray Kids,불면증 (Insomnia),112,191
-893,Stray Kids,불면증 (Insomnia) (SKZ2021 Ver.),113,193
-894,Stray Kids,IN生 Mashup,208,231
-895,Stray Kids,ITEM,225,196
-896,Stray Kids,바람 (Levanter),73,161
-897,Stray Kids,Levanter (English Ver.),393,0
-898,Stray Kids,Lonely St.,185,115
-899,Stray Kids,Lost Me,11,0
-900,Stray Kids,#LoveSTAY,94,113
-901,Stray Kids,MANIAC,134,173
-902,Stray Kids,MANIAC -Japanese ver.-,198,0
-903,Stray Kids,MAXIDENT Mashup,89,96
-904,Stray Kids,잠깐의 고요 (Maze of Memories),223,228
-905,Stray Kids,잠깐의 고요 (Maze of Memories) (SKZ2021 Ver.),225,228
-906,Stray Kids,잠깐의 고요 (Maze of Memories) (SKZ2021 Ver.) (Romanized),450,0
-907,Stray Kids,M.I.A,28,347
-908,Stray Kids,M.I.A (SKZ2020 Ver.),28,347
-909,Stray Kids,MIROH,89,231
-910,Stray Kids,MIROH (SKZ2020 Ver.),89,231
-911,Stray Kids,Mirror,107,304
-912,Stray Kids,Mirror (SKZ2020 Ver.),107,304
-913,Stray Kids,Mixtape #1,183,232
-914,Stray Kids,Mixtape #2,139,338
-915,Stray Kids,Mixtape #3,116,251
-916,Stray Kids,Mixtape #4,131,338
-917,Stray Kids,Mixtape #5,58,347
-918,Stray Kids,Mixtape: Gone Days,133,173
-919,Stray Kids,Mixtape: 애 (OH),63,252
-920,Stray Kids,바보라도 알아 - Mixtape : On Track,90,267
-921,Stray Kids,Mixtape : Time Out,157,147
-922,Stray Kids,Muddy Water,215,241
-923,Stray Kids,My Pace,191,211
-924,Stray Kids,My Pace -Japanese ver.-,265,0
-925,Stray Kids,My Pace (SKZ2020 Ver.),192,209
-926,Stray Kids,편 (My Side),57,246
-927,Stray Kids,편 (My Side) (SKZ2021 Ver.),57,246
-928,Stray Kids,My Universe,52,239
-929,Stray Kids,끝나지 않을 이야기 (Neverending Story),28,254
-930,Stray Kids,끝나지 않을 이야기 (Neverending Story) (Instrumental),0,0
-931,Stray Kids,NOT!,70,84
-932,Stray Kids,Novel,39,0
-933,Stray Kids,극과 극 N/S,287,254
-934,Stray Kids,극과 극 (N/S) (SKZ2021 Ver.),287,254
-935,Stray Kids,ODDINARY Mashup,70,58
-936,Stray Kids,One Day,42,0
-937,Stray Kids,Pacemaker,106,249
-938,Stray Kids,PARTY’S NOT OVER,280,83
-939,Stray Kids,Phobia,171,184
-940,Stray Kids,Placebo,181,215
-941,Stray Kids,QUESTION,141,145
-942,Stray Kids,Question (SKZ2020 Ver.),139,145
-943,Stray Kids,강박 (Red Lights),162,126
-944,Stray Kids,밟힌 적 없는 길 (Road Not Taken),41,45
-945,Stray Kids,Rock (돌),163,176
-946,Stray Kids,ROCK (돌) (SKZ2021 Ver.),163,176
-947,Stray Kids,Scars,89,0
-948,Stray Kids,Scars (Korean Ver.),81,204
-949,Stray Kids,SCHOOL LIFE,22,244
-950,Stray Kids,특 (S-Class),163,212
-951,Stray Kids,말할 수 없는 비밀 (Secret Secret),68,216
-952,Stray Kids,부작용 (Side Effects),84,217
-953,Stray Kids,부작용 (Side Effects) (SKZ2020 Ver.),82,217
-954,Stray Kids,Silent Cry,70,249
-955,Stray Kids,Silent Cry -Japanese ver.-,102,0
-956,Stray Kids,SLUMP,40,232
-957,Stray Kids,SLUMP (English Version),462,0
-958,Stray Kids,SLUMP (Instrumental),0,0
-959,Stray Kids,SLUMP (Japanese Version),62,0
-960,Stray Kids,SLUMP (Japanese Version) [神之塔 / Tower of God],40,0
-961,Stray Kids,Social Path,403,0
-962,Stray Kids,Social Path (Instrumental),0,0
-963,Stray Kids,"좋아해서 미안 (Sorry, I Love You)",4,304
-964,Stray Kids,어린 날개 (Spread My Wings),33,265
-965,Stray Kids,어린 날개 (Spread My Wings) (SKZ2020 Ver.),33,265
-966,Stray Kids,씩 (SSICK),147,179
-967,Stray Kids,Star Lost,194,190
-968,Stray Kids,STOP,123,140
-969,Stray Kids,Stray Kids - Hellevator (Traducción al Español),393,0
-970,Stray Kids,Sunshine,99,293
-971,Stray Kids,SUPER BOARD,152,182
-972,Stray Kids,Super Bowl,503,0
-973,Stray Kids,Super Bowl -Japanese ver.-,249,0
-974,Stray Kids,Surfin’,265,148
-975,Stray Kids,타 (TA),160,226
-976,Stray Kids,TASTE,242,154
-977,Stray Kids,There,210,0
-978,Stray Kids,THE SOUND,218,0
-979,Stray Kids,THE SOUND (Instrumental),0,0
-980,Stray Kids,THE SOUND (Korean Ver.),97,216
-981,Stray Kids,토끼와 거북이 (The Tortoise and the Hare),144,222
-982,Stray Kids,The View,201,177
-983,Stray Kids,소리꾼 (Thunderous),127,194
-984,Stray Kids,ソリクン (Thunderous) -Japanese Ver.-,168,8
-985,Stray Kids,별생각 (TMT),50,286
-986,Stray Kids,별생각 (TMT) (SKZ2020 Ver.),50,286
-987,Stray Kids,TOP,89,222
-988,Stray Kids,TOP (English Version),573,0
-989,Stray Kids,TOP (Instrumental),0,0
-990,Stray Kids,TOP (Japanese Version),138,0
-991,Stray Kids,TOP (Japanese Version) [神之塔 / Tower of God],68,0
-992,Stray Kids,TOPLINE,257,186
-993,Stray Kids,TOPLINE (RNR(Rose’s N’ Red) Entertainments Translation)) ENG,535,0
-994,Stray Kids,오늘 밤 나는 불을 켜 (Up All Night),136,196
-995,Stray Kids,거미줄 (VENOM),124,187
-996,Stray Kids,승전가 (Victory Song),187,162
-997,Stray Kids,Victory Song (SKZ2020 Ver.),187,162
-998,Stray Kids,VOICES,131,198
-999,Stray Kids,VOICES (SKZ2020 Ver.),130,198
-1000,Stray Kids,피어난다 (Waiting For Us),83,113
-1001,Stray Kids,We Go,132,227
-1002,Stray Kids,WHO?,50,72
-1003,Stray Kids,Winter Falls,164,261
-1004,Stray Kids,WOLFGANG,125,173
-1005,Stray Kids,WOLFGANG (Album Version),125,173
-1006,Stray Kids,Wow,260,126
-1007,Stray Kids,YAYAYA,87,296
-1008,Stray Kids,YAYAYA (SKZ2020 Ver.),87,296
-1009,Stray Kids,YOU.,30,31
-1010,Stray Kids,You Can Stay,155,234
-1011,Stray Kids,Your Eyes,56,0
-1012,Stray Kids,Youtiful,413,0
-1013,Stray Kids,Youtiful (by stray kids lyrics),410,0
-1014,Stray Kids,神메뉴 (God’s Menu),115,198
-1015,Stray Kids,神メニュー (God’s Menu) -Japanese ver.-,212,0
-1016,Stray Kids,蜘蛛の巣 (VENOM) -Japanese ver.-,175,0
-1017,Stray Kids,風 (Levanter) -Japanese ver.-,89,0
-1018,TOMORROW X TOGETHER,0X1=LOVESONG (I Know I Love You),241,145
-1019,TOMORROW X TOGETHER,0x1=LOVESONG (I Know I Love You) (Emocore Mix),246,150
-1020,TOMORROW X TOGETHER,0X1=LOVESONG (I Know I Love You) [Japanese Ver.],248,0
-1021,TOMORROW X TOGETHER,0X1=LOVESONG (I Know I Love You) (Mod Sun Ver.),428,59
-1022,TOMORROW X TOGETHER,20cm,46,199
-1023,TOMORROW X TOGETHER,5시 53분의 하늘에서 발견한 너와 나 (Blue Hour),279,159
-1024,TOMORROW X TOGETHER,5시 53분의 하늘에서 발견한 너와 나 (Blue Hour) [Dance Break Ver.],338,179
-1025,TOMORROW X TOGETHER,5時53分の空で見つけた君と僕 (Blue Hour) [Dance Break Ver.] (Japanese Ver.),342,0
-1026,TOMORROW X TOGETHER,5時53分の空で見つけた君と僕 (Blue Hour) (Japanese Ver.),279,0
-1027,TOMORROW X TOGETHER,9와 4분의 3 승강장에서 너를 기다려 (Run Away),115,222
-1028,TOMORROW X TOGETHER,9と4分の3番線で君を待つ (Run Away) [Japanese Ver.],154,0
-1029,TOMORROW X TOGETHER,Angel Or Devil,198,272
-1030,TOMORROW X TOGETHER,Angel Or Devil (Japanese Ver.),197,0
-1031,TOMORROW X TOGETHER,Anti-Romantic,121,123
-1032,TOMORROW X TOGETHER,Blue Orangeade,175,187
-1033,TOMORROW X TOGETHER,Blue Spring,162,101
-1034,TOMORROW X TOGETHER,"세계가 불타버린 밤, 우린... (Can’t You See Me?)",316,97
-1035,TOMORROW X TOGETHER,Can’t You See Me? (世界が燃えてしまった夜、僕たちは...) [Japanese Ver.],310,0
-1036,TOMORROW X TOGETHER,Cat & Dog,208,192
-1037,TOMORROW X TOGETHER,Cat & Dog (English Version),619,0
-1038,TOMORROW X TOGETHER,어느날 머리에서 뿔이 자랐다 (CROWN),196,196
-1039,TOMORROW X TOGETHER,디어 스푸트니크 (Dear Sputnik),214,136
-1040,TOMORROW X TOGETHER,Devil by the Window (자정의 창가에서 만난 악마의 목소리는 달콤했다),393,0
-1041,TOMORROW X TOGETHER,Drama,196,129
-1042,TOMORROW X TOGETHER,Drama (Japanese Ver.),190,0
-1043,TOMORROW X TOGETHER,Eternally,48,160
-1044,TOMORROW X TOGETHER,EYES (감은 눈을 떠봐) (From ”Armored Saurus”),73,205
-1045,TOMORROW X TOGETHER,F2020,72,148
-1046,TOMORROW X TOGETHER,샴푸의 요정 (Fairy of Shampoo),7,126
-1047,TOMORROW X TOGETHER,"네버랜드를 떠나며 (Farewell, Neverland)",144,87
-1048,TOMORROW X TOGETHER,Force,116,0
-1049,TOMORROW X TOGETHER,Free Falling,98,160
-1050,TOMORROW X TOGETHER,Frost,100,154
-1051,TOMORROW X TOGETHER,Ghosting,32,223
-1052,TOMORROW X TOGETHER,Good Boy Gone Bad,286,168
-1053,TOMORROW X TOGETHER,Good Boy Gone Bad (Japanese Ver.),305,0
-1054,TOMORROW X TOGETHER,이젠 안녕 (Goodbye Now),4,158
-1055,TOMORROW X TOGETHER,이젠 안녕 (Goodbye Now) (Instrumental),0,0
-1056,TOMORROW X TOGETHER,Happy Fools,272,101
-1057,TOMORROW X TOGETHER,Happy Fools (TOMORROW X TOGETHER Ver.),189,135
-1058,TOMORROW X TOGETHER,소악행 (Ice Cream),226,123
-1059,TOMORROW X TOGETHER,Intro : DREAMING,137,0
-1060,TOMORROW X TOGETHER,Intro : FLOATING,0,0
-1061,TOMORROW X TOGETHER,Ito,97,0
-1062,TOMORROW X TOGETHER,LO$ER=LO♡ER (LOSER=LOVER),262,116
-1063,TOMORROW X TOGETHER,Lonely Boy (네 번째 손가락 위 타투) (The tattoo on my ring finger),146,85
-1064,TOMORROW X TOGETHER,널 보면 시간이 멈춰 어느 순간에도 (Love Sight),14,147
-1065,TOMORROW X TOGETHER,널 보면 시간이 멈춰 어느 순간에도 (Love Sight) (Instrumental),0,0
-1066,TOMORROW X TOGETHER,Magic,490,0
-1067,TOMORROW X TOGETHER,Magic Island,72,153
-1068,TOMORROW X TOGETHER,거울 속의 미로 (Maze in the Mirror),110,216
-1069,TOMORROW X TOGETHER,교환일기 (두밧두 와리와리) (MOA Diary Dubaddu Wari Wari),207,165
-1070,TOMORROW X TOGETHER,MOA Diary (Dubaddu Wari Wari) [Japanese Ver.],245,0
-1071,TOMORROW X TOGETHER,별의 낮잠 (Nap of a Star),25,130
-1072,TOMORROW X TOGETHER,New Rules,184,155
-1073,TOMORROW X TOGETHER,No Rules,172,123
-1074,TOMORROW X TOGETHER,Opening Sequence,209,105
-1075,TOMORROW X TOGETHER,Our Summer,40,134
-1076,TOMORROW X TOGETHER,Our Summer (Acoustic Mix),30,128
-1077,TOMORROW X TOGETHER,Outro : FALLING,64,0
-1078,TOMORROW X TOGETHER,Outro : STILL,4,0
-1079,TOMORROW X TOGETHER,Poppin’ Star,57,154
-1080,TOMORROW X TOGETHER,동물원을 빠져나온 퓨마 (Puma),175,208
-1081,TOMORROW X TOGETHER,간지러워 (Roller Coaster),85,138
-1082,TOMORROW X TOGETHER,Sriracha,542,0
-1083,TOMORROW X TOGETHER,Sugar Rush Ride,224,125
-1084,TOMORROW X TOGETHER,Sugar Rush Ride (Japanese Ver.),245,0
-1085,TOMORROW X TOGETHER,땀 (Sweat),78,195
-1086,TOMORROW X TOGETHER,Sweet Dreams,101,111
-1087,TOMORROW X TOGETHER,Thursday’s Child Has Far To Go,118,173
-1088,TOMORROW X TOGETHER,Tinnitus (Wanna be a rock) (돌멩이가 되고 싶어),132,122
-1089,TOMORROW X TOGETHER,TOMORROW X TOGETHER - 땀 (Sweat) - Romanized,272,0
-1090,TOMORROW X TOGETHER,Trust Fund Baby,128,87
-1091,TOMORROW X TOGETHER,하굣길 (Way Home),83,227
-1092,TOMORROW X TOGETHER,날씨를 잃어버렸어 (We Lost The Summer),216,180
-1093,TOMORROW X TOGETHER,밸런스 게임 (What if I had been that PUMA),165,257
-1094,TOMORROW X TOGETHER,Wishlist,231,92
-1095,TOMORROW X TOGETHER,Your Light,89,159
-1096,TOMORROW X TOGETHER,Your Light (Instrumental),0,0
-1097,TOMORROW X TOGETHER,Your Light (Japanese Version),90,0
-1098,TOMORROW X TOGETHER,君じゃない誰かの愛し方 (Ring),31,0
-1099,TOMORROW X TOGETHER,君じゃない誰かの愛し方 (Ring) (Unplugged Ver.),31,0
-1100,TOMORROW X TOGETHER,ひとりの夜 (Hitori no Yoru),14,0
-1101,TOMORROW X TOGETHER,ある日、頭からツノが生えた (CROWN) [Japanese Ver.],151,12
-1102,TOMORROW X TOGETHER,永遠に光れ (Everlasting Shine),64,0
-1103,TOMORROW X TOGETHER,紫陽花のような恋 (Hydrangea Love),4,0
+Artist,Song Name,Total English Words,Total Korean Words,Total Words,% English,% Korean
+(G)I-DLE,싫다고 말해 (Put It Straight),12,180,192,6.25,93.75
+(G)I-DLE,싫다고 말해 (Put It Straight) [Nightmare Version],12,226,238,5.042016806722689,94.9579831932773
+(G)I-DLE,들어줘요 (HEAR ME),15,192,207,7.246376811594203,92.7536231884058
+(G)I-DLE,Show,17,119,136,12.5,87.5
+(G)I-DLE,Tung-Tung (Empty),23,0,23,100.0,0.0
+(G)I-DLE,화 (HWAA),25,147,172,14.534883720930234,85.46511627906976
+(G)I-DLE,어린 어른 (Peter Pan),25,241,266,9.398496240601503,90.6015037593985
+(G)I-DLE,火/花 (HWAA) (Chinese Version),28,0,28,100.0,0.0
+(G)I-DLE,Reset,30,160,190,15.789473684210526,84.21052631578947
+(G)I-DLE,DON’T TEXT ME,33,278,311,10.610932475884244,89.38906752411575
+(G)I-DLE,Maybe,45,80,125,36.0,64.0
+(G)I-DLE,주세요 (Give Me Your),46,215,261,17.624521072796934,82.37547892720306
+(G)I-DLE,한 (寒) (HANN (Alone in winter)),68,95,163,41.717791411042946,58.282208588957054
+(G)I-DLE,조각품 (Sculpture),77,147,224,34.375,65.625
+(G)I-DLE,DARK (X-file),82,113,195,42.05128205128205,57.948717948717956
+(G)I-DLE,Last Dance,83,198,281,29.537366548042705,70.46263345195729
+(G)I-DLE,Where is love,96,106,202,47.524752475247524,52.475247524752476
+(G)I-DLE,For You,97,0,97,100.0,0.0
+(G)I-DLE,LOST,100,143,243,41.1522633744856,58.8477366255144
+(G)I-DLE,사랑해 (Luv U),101,139,240,42.083333333333336,57.91666666666667
+(G)I-DLE,DAHLIA,119,146,265,44.905660377358494,55.094339622641506
+(G)I-DLE,LION,119,197,316,37.65822784810127,62.34177215189873
+(G)I-DLE,MAZE,120,166,286,41.95804195804196,58.04195804195804
+(G)I-DLE,Uh-Oh,122,192,314,38.853503184713375,61.146496815286625
+(G)I-DLE,덤디덤디 (DUMDi DUMDi),124,180,304,40.78947368421053,59.210526315789465
+(G)I-DLE,한(一) (HANN (Alone)),131,219,350,37.42857142857143,62.57142857142857
+(G)I-DLE,Oh my god,133,154,287,46.34146341463415,53.65853658536586
+(G)I-DLE,LATATA,139,170,309,44.983818770226534,55.016181229773466
+(G)I-DLE,Lucid,155,85,240,64.58333333333334,35.41666666666667
+(G)I-DLE,MOON,158,76,234,67.52136752136752,32.47863247863248
+(G)I-DLE,DUMDi DUMDi (Chinese Version),163,0,163,100.0,0.0
+(G)I-DLE,Senorita,166,127,293,56.655290102389074,43.344709897610926
+(G)I-DLE,Paradise,176,117,293,60.068259385665534,39.93174061433447
+(G)I-DLE,What’s Your Name,180,198,378,47.61904761904761,52.38095238095239
+(G)I-DLE,ESCAPE,181,132,313,57.82747603833865,42.17252396166134
+(G)I-DLE,FIRE,192,259,451,42.572062084257205,57.42793791574279
+(G)I-DLE,말리지 마 (Never Stop Me),197,85,282,69.8581560283688,30.141843971631204
+(G)I-DLE,VILLAIN DIES,199,79,278,71.58273381294964,28.41726618705036
+(G)I-DLE,Blow Your Mind,200,87,287,69.68641114982579,30.313588850174217
+(G)I-DLE,ALREADY,204,103,307,66.44951140065146,33.55048859934853
+(G)I-DLE,달려! (Relay!),216,172,388,55.670103092783506,44.329896907216494
+(G)I-DLE,Help Me,221,142,363,60.88154269972452,39.11845730027548
+(G)I-DLE,Ninety Nine,223,0,223,100.0,0.0
+(G)I-DLE,퀸카 (Queencard),226,98,324,69.75308641975309,30.246913580246915
+(G)I-DLE,All Night,231,56,287,80.48780487804879,19.51219512195122
+(G)I-DLE,LIAR,231,66,297,77.77777777777779,22.22222222222222
+(G)I-DLE,Nxde,233,115,348,66.95402298850574,33.04597701149425
+(G)I-DLE,POLAROID,234,64,298,78.52348993288591,21.476510067114095
+(G)I-DLE,달라 (DOLLAR) ($$$),242,177,419,57.756563245823386,42.243436754176614
+(G)I-DLE,​i’M THE TREND,254,116,370,68.64864864864865,31.351351351351354
+(G)I-DLE,Allergy,257,74,331,77.64350453172206,22.356495468277945
+(G)I-DLE,Light My Fire,267,0,267,100.0,0.0
+(G)I-DLE,I DO,273,0,273,100.0,0.0
+(G)I-DLE,LOVE,292,94,386,75.64766839378238,24.352331606217618
+(G)I-DLE,알고 싶어 (What’s in your house?),319,128,447,71.36465324384787,28.635346756152124
+(G)I-DLE,MY BAG,332,102,434,76.49769585253456,23.502304147465438
+(G)I-DLE,TOMBOY,352,58,410,85.85365853658537,14.146341463414632
+(G)I-DLE,TOMBOY (Explicit Version),354,57,411,86.13138686131386,13.86861313868613
+(G)I-DLE,Change,369,29,398,92.71356783919597,7.2864321608040195
+AESPA,Forever (약속),40,150,190,21.052631578947366,78.94736842105263
+AESPA,We Go,87,167,254,34.25196850393701,65.74803149606299
+AESPA,’Til We Meet Again,124,140,264,46.96969696969697,53.03030303030303
+AESPA,Girls,154,194,348,44.252873563218394,55.74712643678161
+AESPA,ænergy,159,39,198,80.3030303030303,19.696969696969695
+AESPA,Black Mamba,160,111,271,59.040590405904055,40.959409594095945
+AESPA,Don’t Blink,173,137,310,55.80645161290323,44.193548387096776
+AESPA,ICU (쉬어가도 돼),173,126,299,57.859531772575245,42.14046822742475
+AESPA,자각몽 (Lucid Dream),180,242,422,42.65402843601896,57.345971563981045
+AESPA,Lingo,184,135,319,57.68025078369906,42.31974921630094
+AESPA,Life’s Too Short,192,144,336,57.14285714285714,42.857142857142854
+AESPA,I’m Unhappy,197,113,310,63.54838709677419,36.45161290322581
+AESPA,도깨비불 (Illusion),216,156,372,58.06451612903226,41.935483870967744
+AESPA,Next Level,218,153,371,58.760107816711596,41.23989218328841
+AESPA,Thirsty,236,166,402,58.70646766169154,41.29353233830846
+AESPA,YEPPI YEPPI,237,184,421,56.294536817102134,43.705463182897866
+AESPA,Welcome To MY World,240,88,328,73.17073170731707,26.82926829268293
+AESPA,2022 United Nations General Assembly Speech,246,1,247,99.59514170040485,0.4048582995951417
+AESPA,Dreams Come True,282,107,389,72.49357326478149,27.506426735218508
+AESPA,ICONIC,284,147,431,65.89327146171694,34.106728538283065
+AESPA,Salty & Sweet,284,100,384,73.95833333333334,26.041666666666668
+AESPA,I’ll Make You Cry,311,156,467,66.59528907922912,33.40471092077088
+AESPA,Hold On Tight,320,1,321,99.68847352024922,0.3115264797507788
+AESPA,Savage,369,216,585,63.07692307692307,36.92307692307693
+AESPA,Spicy,369,114,483,76.3975155279503,23.60248447204969
+AESPA,Better Things,611,1,612,99.83660130718954,0.16339869281045752
+BLACKPINK,雪の華 (Yukino Hana) / JISOO (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),11,0,11,100.0,0.0
+BLACKPINK,아니길 (Hope Not),44,150,194,22.68041237113402,77.31958762886599
+BLACKPINK,Yeah Yeah Yeah,62,84,146,42.465753424657535,57.534246575342465
+BLACKPINK,For The Love (Pepsi Ad),78,0,78,100.0,0.0
+BLACKPINK,LET IT BE ~ YOU & I ~ ONLY LOOK AT ME / ROSÉ (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),96,154,250,38.4,61.6
+BLACKPINK,불장난 (PLAYING WITH FIRE),119,145,264,45.07575757575758,54.92424242424242
+BLACKPINK,"Awesome Screen, Awesome Camera",127,0,127,100.0,0.0
+BLACKPINK,마지막처럼 (AS IF IT’S YOUR LAST),158,173,331,47.73413897280967,52.26586102719033
+BLACKPINK,휘파람 (WHISTLE),160,198,358,44.6927374301676,55.3072625698324
+BLACKPINK,Don’t Know What To Do,162,103,265,61.13207547169811,38.86792452830189
+BLACKPINK,Last Christmas ~ Rudolph the Red-nosed Reindeer (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),172,0,172,100.0,0.0
+BLACKPINK,You Never Know,201,169,370,54.32432432432432,45.67567567567568
+BLACKPINK,Lovesick Girls,203,142,345,58.84057971014492,41.15942028985507
+BLACKPINK,STAY,206,179,385,53.5064935064935,46.493506493506494
+BLACKPINK,SOLO (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),207,89,296,69.93243243243244,30.067567567567565
+BLACKPINK,Price Tag / Lonely / You & I / The Lazy Song,221,42,263,84.03041825095056,15.96958174904943
+BLACKPINK,붐바야 (BOOMBAYAH),227,157,384,59.114583333333336,40.88541666666667
+BLACKPINK,Really,235,144,379,62.00527704485488,37.994722955145114
+BLACKPINK,Kick It,237,143,380,62.36842105263158,37.631578947368425
+BLACKPINK,Forever Young,253,142,395,64.0506329113924,35.949367088607595
+BLACKPINK,뚜두뚜두 (DDU-DU DDU-DU),260,139,399,65.16290726817043,34.83709273182957
+BLACKPINK,See U Later,260,172,432,60.18518518518518,39.81481481481482
+BLACKPINK,Kill This Love,264,91,355,74.36619718309859,25.633802816901408
+BLACKPINK,Ready For Love,274,103,377,72.67904509283821,27.320954907161806
+BLACKPINK,Pretty Savage,277,93,370,74.86486486486487,25.135135135135133
+BLACKPINK,Hard to Love,293,0,293,100.0,0.0
+BLACKPINK,One By Way,337,0,337,100.0,0.0
+BLACKPINK,How You Like That,353,72,425,83.05882352941177,16.941176470588236
+BLACKPINK,Crazy Over You,385,0,385,100.0,0.0
+BLACKPINK,Shut Down,393,57,450,87.33333333333333,12.666666666666668
+BLACKPINK,Pink Venom (Mixed),395,72,467,84.58244111349036,15.417558886509635
+BLACKPINK,Pink Venom,400,72,472,84.7457627118644,15.254237288135593
+BLACKPINK,THE GIRLS,400,0,400,100.0,0.0
+BLACKPINK,The Happiest Girl,406,0,406,100.0,0.0
+BLACKPINK,Tally,433,0,433,100.0,0.0
+BLACKPINK,Kiss and Make Up (BLACKPINK ARENA TOUR 2018 ”SPECIAL FINAL IN KYOCERA DOME OSAKA”),435,44,479,90.81419624217119,9.18580375782881
+BLACKPINK,Typa Girl,460,0,460,100.0,0.0
+BLACKPINK,Love To Hate Me,466,0,466,100.0,0.0
+BLACKPINK,Bet You Wanna,524,0,524,100.0,0.0
+BLACKPINK,Sure Thing,628,0,628,100.0,0.0
+BTS,OUTRO : The Journey,3,0,3,100.0,0.0
+BTS,Interlude: 뭐해 (What Are You Doing Now),4,3,7,57.14285714285714,42.857142857142854
+BTS,INTRO.,6,0,6,100.0,0.0
+BTS,Singularity,8,111,119,6.722689075630252,93.27731092436974
+BTS,134340,12,317,329,3.64741641337386,96.35258358662614
+BTS,Intro: Singularity,13,114,127,10.236220472440944,89.76377952755905
+BTS,Intro: 화양연화 (The Most Beautiful Moment In Life),13,174,187,6.951871657754011,93.04812834224599
+BTS,Rain,14,388,402,3.482587064676617,96.51741293532339
+BTS,INTRO : Calling,22,0,22,100.0,0.0
+BTS,FIRST LOVE,24,290,314,7.643312101910828,92.35668789808918
+BTS,FOR YOU,25,0,25,100.0,0.0
+BTS,잠시 (Telepathy),25,214,239,10.460251046025103,89.5397489539749
+BTS,어디에서 왔는지 (Where Did You Come From),26,360,386,6.7357512953367875,93.26424870466322
+BTS,いいね!Pt.2 ～あの場所で～ (I Like It Pt.2 ~In That Place~ / Ano Bashode),28,0,28,100.0,0.0
+BTS,Your eyes tell,28,0,28,100.0,0.0
+BTS,욱 (UGH!),30,336,366,8.19672131147541,91.80327868852459
+BTS,봄날 (Spring Day),31,269,300,10.333333333333334,89.66666666666666
+BTS,Danger,34,327,361,9.418282548476455,90.58171745152355
+BTS,OUTRO : Crack,35,0,35,100.0,0.0
+BTS,Still With You (Acappella),35,164,199,17.587939698492463,82.41206030150754
+BTS,둘! 셋! (그래도 좋은 날이 더 많기를) (2! 3!),36,352,388,9.278350515463918,90.72164948453609
+BTS,OUTRO : House Of Cards,36,111,147,24.489795918367346,75.51020408163265
+BTS,Outro : Love is Not Over,36,86,122,29.508196721311474,70.49180327868852
+BTS,졸업 (Graduation Song),38,197,235,16.170212765957448,83.82978723404256
+BTS,Run It Down,38,0,38,100.0,0.0
+BTS,INTRO : Ringwanderung,39,0,39,100.0,0.0
+BTS,학교의눈물 (School of Tears),39,219,258,15.11627906976744,84.88372093023256
+BTS,INTRO : Never Mind,40,190,230,17.391304347826086,82.6086956521739
+BTS,좋아요! Pt.2 (I Like It Pt.2),44,270,314,14.012738853503185,85.98726114649682
+BTS,따옴표 (Quotation Mark),44,219,263,16.730038022813687,83.26996197718631
+BTS,고엽 (Autumn Leaves),47,283,330,14.242424242424242,85.75757575757575
+BTS,팔도강산 (Satoori Rap/Paldogangsan),47,298,345,13.623188405797102,86.37681159420289
+BTS,핸드폰 좀 꺼줄래 (Could You Turn Off Your Cell Phone?),48,323,371,12.93800539083558,87.06199460916442
+BTS,EPILOGUE : Young Forever,49,174,223,21.973094170403588,78.02690582959642
+BTS,House of Cards (Full Length Edition),50,148,198,25.252525252525253,74.74747474747475
+BTS,STIGMA,50,137,187,26.737967914438503,73.2620320855615
+BTS,"Intro: O!RUL8,2?",51,57,108,47.22222222222222,52.77777777777778
+BTS,Outro: Propose,51,77,128,39.84375,60.15625
+BTS,Trivia 轉: Seesaw,51,281,332,15.36144578313253,84.63855421686746
+BTS,흔한 아이돌의 크리스마스 (A Typical Idol’s Christmas),52,226,278,18.705035971223023,81.29496402877699
+BTS,피 땀 눈물 (Blood Sweat & Tears),55,220,275,20.0,80.0
+BTS,낙원 (Paradise / Nakwon),55,273,328,16.76829268292683,83.23170731707317
+BTS,Butterfly (Prologue Mix),58,124,182,31.868131868131865,68.13186813186813
+BTS,Moon,58,208,266,21.804511278195488,78.19548872180451
+BTS,Tomorrow,58,332,390,14.871794871794872,85.12820512820512
+BTS,Film out,59,0,59,100.0,0.0
+BTS,Love Is Not Over (Full Length Edition),60,242,302,19.867549668874172,80.13245033112582
+BTS,We Are B.P.B,60,138,198,30.303030303030305,69.6969696969697
+BTS,Butterfly,61,183,244,25.0,75.0
+BTS,Butterfly (Alternative Mix),61,183,244,25.0,75.0
+BTS,I NEED U (Demo),61,146,207,29.468599033816425,70.53140096618358
+BTS,In The SOOP,63,15,78,80.76923076923077,19.230769230769234
+BTS,LIE,63,152,215,29.30232558139535,70.69767441860465
+BTS,Intro: 2 Cool 4 Skool,64,9,73,87.67123287671232,12.32876712328767
+BTS,잡아줘 (Hold Me Tight),66,300,366,18.0327868852459,81.9672131147541
+BTS,Beautiful,67,173,240,27.916666666666668,72.08333333333333
+BTS,Blue & Grey,70,202,272,25.735294117647058,74.26470588235294
+BTS,친구 (Friends),70,181,251,27.88844621513944,72.11155378486056
+BTS,Inner Child,71,125,196,36.224489795918366,63.775510204081634
+BTS,So 4 More,71,421,492,14.43089430894309,85.56910569105692
+BTS,Coffee,72,252,324,22.22222222222222,77.77777777777779
+BTS,이사 (Moving On),72,372,444,16.216216216216218,83.78378378378379
+BTS,A Supplementary Story : You Never Walk Alone,73,158,231,31.601731601731604,68.3982683982684
+BTS,Epiphany,73,116,189,38.62433862433862,61.37566137566137
+BTS,여기 봐 (Look Here),75,364,439,17.084282460136674,82.91571753986332
+BTS,전하지 못한 진심 (The Truth Untold),76,136,212,35.84905660377358,64.15094339622641
+BTS,REFLECTION,78,141,219,35.61643835616438,64.38356164383562
+BTS,이불킥 (Blanket Kick/Embarrassed),79,326,405,19.50617283950617,80.49382716049382
+BTS,상남자 (Boy In Luv),79,340,419,18.85441527446301,81.14558472553699
+BTS,OUTRO: LUV IN SKOOL,79,58,137,57.66423357664233,42.33576642335766
+BTS,흥탄소년단 (Boyz with Fun),80,337,417,19.18465227817746,80.81534772182253
+BTS,Intro: Serendipity (세렌디피티),80,89,169,47.337278106508876,52.662721893491124
+BTS,Don’t Leave Me,81,0,81,100.0,0.0
+BTS,진격의 방탄 (Attack on Bangtan/The Rise of Bangtan),82,326,408,20.098039215686274,79.90196078431373
+BTS,Intro: Boy Meets Evil,83,114,197,42.13197969543147,57.868020304568525
+BTS,MAMA,83,193,276,30.07246376811594,69.92753623188406
+BTS,Filter,84,140,224,37.5,62.5
+BTS,DNA,89,207,296,30.067567567567565,69.93243243243244
+BTS,DNA (Pedal 2 LA Mix),89,214,303,29.372937293729372,70.62706270627062
+BTS,하루만 (Just One Day),89,347,436,20.412844036697248,79.58715596330275
+BTS,Converse High,90,217,307,29.31596091205212,70.68403908794788
+BTS,You’re so Beautiful,90,26,116,77.58620689655173,22.413793103448278
+BTS,With SEOUL,92,186,278,33.093525179856115,66.90647482014388
+BTS,길 (Road/Path),94,263,357,26.330532212885156,73.66946778711485
+BTS,Lights,95,0,95,100.0,0.0
+BTS,Jamais Vu,97,164,261,37.16475095785441,62.83524904214559
+BTS,Lost,97,187,284,34.154929577464785,65.84507042253522
+BTS,땡 (Ddaeng),100,339,439,22.779043280182233,77.22095671981776
+BTS,Intro: Skool Luv Affair,100,271,371,26.954177897574123,73.04582210242587
+BTS,Intro: What am I to You,104,241,345,30.144927536231886,69.85507246376812
+BTS,N.O,104,191,295,35.25423728813559,64.7457627118644
+BTS,RUN (Ballad Mix),106,254,360,29.444444444444446,70.55555555555556
+BTS,No More Dream,107,319,426,25.11737089201878,74.88262910798123
+BTS,RUN,107,254,361,29.6398891966759,70.3601108033241
+BTS,RUN (Alternative Mix),107,254,361,29.6398891966759,70.3601108033241
+BTS,Life Goes On,108,172,280,38.57142857142858,61.42857142857143
+BTS,Answer: Love Myself,110,226,336,32.73809523809524,67.26190476190477
+BTS,Respect,111,239,350,31.71428571428571,68.28571428571428
+BTS,뱁새 (Silver Spoon / Baepsae),113,296,409,27.628361858190708,72.37163814180929
+BTS,OUTRO,115,0,115,100.0,0.0
+BTS,Good Day,117,0,117,100.0,0.0
+BTS,BTS Cypher Pt.1,120,203,323,37.15170278637771,62.848297213622295
+BTS,Interlude: Wings,120,116,236,50.847457627118644,49.152542372881356
+BTS,Outro : 그게 말이 돼? (Do You Think It Makes Sense?),121,115,236,51.271186440677965,48.728813559322035
+BTS,흔한 연습생의 크리스마스 (A Typical Trainee’s Christmas),122,248,370,32.972972972972975,67.02702702702703
+BTS,BEGIN,125,58,183,68.30601092896174,31.693989071038253
+BTS,Stay,126,119,245,51.42857142857142,48.57142857142857
+BTS,00:00 (Zero O’Clock),128,188,316,40.50632911392405,59.49367088607595
+BTS,Magic Shop,128,240,368,34.78260869565217,65.21739130434783
+BTS,Let Me Know,129,280,409,31.54034229828851,68.45965770171149
+BTS,Whalien 52,132,307,439,30.068337129840543,69.93166287015946
+BTS,애매한 사이 (Young Love),133,186,319,41.692789968652036,58.307210031347964
+BTS,24/7=Heaven,134,229,363,36.91460055096419,63.08539944903582
+BTS,Born Singer,135,330,465,29.03225806451613,70.96774193548387
+BTS,Trivia 起: Just Dance,135,201,336,40.17857142857143,59.82142857142857
+BTS,Stay Gold,137,0,137,100.0,0.0
+BTS,Outro: Her,143,266,409,34.96332518337408,65.03667481662592
+BTS,Louder than bombs,144,129,273,52.74725274725275,47.25274725274725
+BTS,Make It Right,145,197,342,42.39766081871345,57.60233918128655
+BTS,AWAKE,147,111,258,56.97674418604651,43.02325581395349
+BTS,쩔어 (DOPE),148,218,366,40.43715846994536,59.56284153005464
+BTS,Intro: Persona,151,261,412,36.650485436893206,63.3495145631068
+BTS,소우주 (Mikrokosmos),153,200,353,43.342776203966004,56.657223796033996
+BTS,Miss Right,153,318,471,32.48407643312102,67.51592356687898
+BTS,I NEED U,155,191,346,44.797687861271676,55.202312138728324
+BTS,I NEED U (Urban Mix),155,191,346,44.797687861271676,55.202312138728324
+BTS,Her,156,267,423,36.87943262411347,63.12056737588653
+BTS,병 (Dis-ease),158,267,425,37.1764705882353,62.82352941176471
+BTS,I’m Fine,164,208,372,44.086021505376344,55.91397849462365
+BTS,Love Maze,164,225,389,42.159383033419026,57.84061696658098
+BTS,불타오르네 (Burning Up) (Fire),165,117,282,58.51063829787234,41.48936170212766
+BTS,For Youth,167,178,345,48.40579710144928,51.59420289855072
+BTS,IONIQ: I’m on it,167,65,232,71.98275862068965,28.01724137931034
+BTS,Pied Piper,167,222,389,42.9305912596401,57.0694087403599
+BTS,Heartbeat,168,165,333,50.45045045045045,49.549549549549546
+BTS,Am I Wrong,170,150,320,53.125,46.875
+BTS,Serendipity (Full Length Edition),170,154,324,52.46913580246913,47.53086419753087
+BTS,Euphoria,171,109,280,61.07142857142858,38.92857142857143
+BTS,Crystal Snow,175,0,175,100.0,0.0
+BTS,Save ME,176,180,356,49.43820224719101,50.56179775280899
+BTS,Outro: Ego,177,149,326,54.29447852760736,45.70552147239264
+BTS,"We Are Bulletproof, Pt. 2",177,165,342,51.75438596491229,48.24561403508772
+BTS,MIC Drop,185,228,413,44.794188861985475,55.205811138014525
+BTS,Fix You (MTV Unplugged),188,0,188,100.0,0.0
+BTS,Airplane pt.2,190,171,361,52.63157894736842,47.368421052631575
+BTS,Danger (Mo-Blue-Mix),190,275,465,40.86021505376344,59.13978494623656
+BTS,호르몬 전쟁 (War of Hormone),190,347,537,35.38175046554935,64.61824953445065
+BTS,등골브레이커 (Spine Breaker),192,288,480,40.0,60.0
+BTS,보조개 (​Dimple),193,118,311,62.057877813504824,37.942122186495176
+BTS,Outro: Wings,194,155,349,55.587392550143264,44.412607449856736
+BTS,고민보다 Go (Go Go),197,181,378,52.116402116402114,47.883597883597886
+BTS,바다 (Sea),200,296,496,40.32258064516129,59.67741935483871
+BTS,Ma City,203,277,480,42.291666666666664,57.70833333333333
+BTS,Come Back Home (컴백홈),205,158,363,56.473829201101935,43.52617079889807
+BTS,Outro: Tear,205,329,534,38.38951310861423,61.61048689138576
+BTS,Tear,205,329,534,38.38951310861423,61.61048689138576
+BTS,21세기 소녀 (21st Century Girl),207,92,299,69.23076923076923,30.76923076923077
+BTS,Dionysus,211,311,522,40.42145593869732,59.578544061302686
+BTS,HOME,211,208,419,50.35799522673031,49.64200477326969
+BTS,좋아요 (Like / I Like It),211,241,452,46.68141592920354,53.31858407079646
+BTS,내 방을 여행하는 법 (Fly to My Room),213,148,361,59.0027700831025,40.99722991689751
+BTS,2학년 (2nd Grade / Second Grade / So 4 More),216,294,510,42.35294117647059,57.647058823529406
+BTS,Let’s Introduce BANGTAN ROOM,216,0,216,100.0,0.0
+BTS,Outro: Circle Room Cypher,219,543,762,28.74015748031496,71.25984251968504
+BTS,화양연화 The Notes Pt. 2,223,0,223,100.0,0.0
+BTS,FAKE LOVE,224,211,435,51.49425287356322,48.50574712643678
+BTS,Take Two,227,119,346,65.60693641618496,34.39306358381503
+BTS,힙합성애자 (Hip Hop Phile / Hip Hop Lover),229,329,558,41.03942652329749,58.96057347670251
+BTS,FAKE LOVE (Rocking Vibe Mix),231,212,443,52.144469525959366,47.855530474040634
+BTS,Trivia 承: Love,233,270,503,46.3220675944334,53.677932405566594
+BTS,Best Of Me,237,184,421,56.294536817102134,43.705463182897866
+BTS,We Are Bulletproof : The Eternal,239,119,358,66.75977653631286,33.24022346368715
+BTS,Black Swan,240,149,389,61.696658097686374,38.303341902313626
+BTS,Wishing On a Star,240,0,240,100.0,0.0
+BTS,We On,244,295,539,45.26901669758813,54.73098330241187
+BTS,THE STARS,245,0,245,100.0,0.0
+BTS,BTS Cypher 4,246,254,500,49.2,50.8
+BTS,"Cypher, Pt. 2: Triptych",246,540,786,31.297709923664126,68.70229007633588
+BTS,Trouble,247,63,310,79.6774193548387,20.32258064516129
+BTS,Introduction: Youth,248,0,248,100.0,0.0
+BTS,JUMP,248,298,546,45.42124542124542,54.57875457875458
+BTS,"BTS Cypher, Pt. 3: KILLER",249,411,660,37.72727272727273,62.272727272727266
+BTS,Interlude: Shadow,259,284,543,47.697974217311234,52.302025782688766
+BTS,Wishing On A Star (Korean Version),259,205,464,55.81896551724138,44.18103448275862
+BTS,Not Today,260,179,439,59.2255125284738,40.77448747152619
+BTS,So What,261,189,450,57.99999999999999,42.0
+BTS,Tony Montana (with Jimin),261,114,375,69.6,30.4
+BTS,Let Go,262,0,262,100.0,0.0
+BTS,Yet To Come,264,159,423,62.4113475177305,37.5886524822695
+BTS,Wake Up,272,0,272,100.0,0.0
+BTS,화양연화 The Notes Pt. 1,277,0,277,100.0,0.0
+BTS,작은 것들을 위한 시 (Boy With Luv),278,181,459,60.56644880174292,39.433551198257085
+BTS,IDOL,297,112,409,72.6161369193154,27.383863080684595
+BTS,Anpanman,304,209,513,59.25925925925925,40.74074074074074
+BTS,ON,312,149,461,67.67895878524945,32.32104121475054
+BTS,We Are Bulletproof Pt. 1 (4 BEGINS Ruff),340,128,468,72.64957264957265,27.350427350427353
+BTS,If I Ruled the World,345,185,530,65.09433962264151,34.90566037735849
+BTS,The Planet,350,101,451,77.60532150776052,22.394678492239468
+BTS,달려라 방탄 (RUN BTS),357,141,498,71.6867469879518,28.313253012048197
+BTS,Butter,400,0,400,100.0,0.0
+BTS,시차 (My Time),458,62,520,88.07692307692308,11.923076923076923
+BTS,Permission to Dance,488,0,488,100.0,0.0
+BTS,Dynamite,577,0,577,100.0,0.0
+BTS,Adult Child (어른아이),880,280,1160,75.86206896551724,24.137931034482758
+BTS,Hook 가요 (Free fall / Hook Gayo),1020,263,1283,79.50116913484023,20.498830865159782
+Enhyphen,가족송 (Family Song),10,82,92,10.869565217391305,89.13043478260869
+Enhyphen,Flicker,17,189,206,8.25242718446602,91.74757281553399
+Enhyphen,HEY TAYO (Tayo Opening Theme Song),21,112,133,15.789473684210526,84.21052631578947
+Enhyphen,Forget Me Not,25,1,26,96.15384615384616,3.8461538461538463
+Enhyphen,Fate,47,163,210,22.380952380952383,77.61904761904762
+Enhyphen,Not for Sale,66,125,191,34.55497382198953,65.44502617801047
+Enhyphen,Foreshadow,67,66,133,50.37593984962406,49.62406015037594
+Enhyphen,10 Months,68,140,208,32.69230769230769,67.3076923076923
+Enhyphen,FEVER,71,146,217,32.71889400921659,67.2811059907834
+Enhyphen,BILLY POCO,78,128,206,37.86407766990291,62.13592233009708
+Enhyphen,별안간 (Mixed Up),78,209,287,27.177700348432055,72.82229965156795
+Enhyphen,"Attention, please!",87,191,278,31.294964028776977,68.70503597122301
+Enhyphen,WALK THE LINE,89,59,148,60.13513513513513,39.86486486486486
+Enhyphen,Chaconne,93,159,252,36.904761904761905,63.095238095238095
+Enhyphen,몰랐어 (Just A Little Bit),93,151,244,38.114754098360656,61.885245901639344
+Enhyphen,Outro : Cross the Line,93,1,94,98.93617021276596,1.0638297872340425
+Enhyphen,Given-Taken,99,184,283,34.98233215547703,65.01766784452296
+Enhyphen,Polaroid Love,103,125,228,45.17543859649123,54.824561403508774
+Enhyphen,Intro : Walk The Line,106,20,126,84.12698412698413,15.873015873015872
+Enhyphen,Interlude : Question,109,1,110,99.0909090909091,0.9090909090909091
+Enhyphen,BLOSSOM,120,1,121,99.17355371900827,0.8264462809917356
+Enhyphen,Outro : The Wormhole,124,1,125,99.2,0.8
+Enhyphen,Drunk-Dazed,125,165,290,43.103448275862064,56.896551724137936
+Enhyphen,Outro : Day 2,134,1,135,99.25925925925925,0.7407407407407408
+Enhyphen,Sacrifice (Eat Me Up),137,147,284,48.23943661971831,51.76056338028169
+Enhyphen,Intro : The Invitation,139,1,140,99.28571428571429,0.7142857142857143
+Enhyphen,Intro : Whiteout,144,1,145,99.3103448275862,0.6896551724137931
+Enhyphen,Karma,146,134,280,52.142857142857146,47.85714285714286
+Enhyphen,Bills,150,137,287,52.264808362369344,47.73519163763066
+Enhyphen,Upper Side Dreamin’,168,162,330,50.90909090909091,49.09090909090909
+Enhyphen,Blockbuster (액션 영화처럼),171,223,394,43.401015228426395,56.598984771573605
+Enhyphen,Tamed-Dashed,173,144,317,54.57413249211357,45.42586750788644
+Enhyphen,Make the change,178,1,179,99.4413407821229,0.5586592178770949
+Enhyphen,A Kind Of Magic (Coke Studio Session),182,1,183,99.4535519125683,0.546448087431694
+Enhyphen,SHOUT OUT,189,187,376,50.26595744680851,49.734042553191486
+Enhyphen,TFW (That Feeling When),203,116,319,63.63636363636363,36.36363636363637
+Enhyphen,ParadoXXX Invasion,206,129,335,61.49253731343284,38.50746268656716
+Enhyphen,One In A Billion,210,112,322,65.21739130434783,34.78260869565217
+Enhyphen,모 아니면 도 (Go Big or Go Home),212,120,332,63.85542168674698,36.144578313253014
+Enhyphen,Blessed-Cursed,218,151,369,59.078590785907856,40.921409214092144
+Enhyphen,One and Only,223,91,314,71.01910828025477,28.980891719745223
+Enhyphen,Always,232,1,233,99.57081545064378,0.4291845493562232
+Enhyphen,Bite Me,238,90,328,72.5609756097561,27.439024390243905
+Enhyphen,Future Perfect (Pass the MIC),240,143,383,62.66318537859008,37.33681462140992
+Enhyphen,ZERO MOMENT,248,1,249,99.59839357429718,0.4016064257028112
+Enhyphen,구해줘 (I Need the Light),263,124,387,67.95865633074936,32.041343669250644
+Enhyphen,CRIMINAL LOVE,284,132,416,68.26923076923077,31.73076923076923
+Enhyphen,Let Me In (20 CUBE),313,109,422,74.17061611374407,25.829383886255926
+FIFTY FIFTY,Cupid – Twin Version (Snack),102,0,102,100.0,0.0
+FIFTY FIFTY,Higher,182,133,315,57.77777777777777,42.22222222222222
+FIFTY FIFTY,Lovin’ Me,242,93,335,72.23880597014926,27.761194029850746
+FIFTY FIFTY,Cupid,266,74,340,78.23529411764706,21.764705882352942
+FIFTY FIFTY,Log in,329,120,449,73.2739420935412,26.7260579064588
+FIFTY FIFTY,Cupid (Twin Version),348,0,348,100.0,0.0
+FIFTY FIFTY,Barbie Dreams,391,0,391,100.0,0.0
+FIFTY FIFTY,Barbie Dreams (Mixed),401,0,401,100.0,0.0
+FIFTY FIFTY,Tell Me,428,90,518,82.62548262548263,17.374517374517374
+NewJeans,아름다운 구속 (Beautiful Restriction),8,133,141,5.673758865248227,94.32624113475178
+NewJeans,NewJeans Chicken Dance Campaign,21,0,21,100.0,0.0
+NewJeans,Get Up,51,0,51,100.0,0.0
+NewJeans,Cookie,158,187,345,45.79710144927536,54.20289855072464
+NewJeans,Hurt,159,94,253,62.845849802371546,37.15415019762846
+NewJeans,Cool With You,170,39,209,81.3397129186603,18.660287081339714
+NewJeans,Attention (Mixed),178,76,254,70.07874015748031,29.92125984251969
+NewJeans,New Jeans,184,19,203,90.64039408866995,9.35960591133005
+NewJeans,ETA,233,89,322,72.36024844720497,27.639751552795033
+NewJeans,Ditto,236,69,305,77.37704918032787,22.62295081967213
+NewJeans,Attention,244,76,320,76.25,23.75
+NewJeans,Zero,270,79,349,77.36389684813754,22.636103151862464
+NewJeans,Hype Boy,271,91,362,74.86187845303867,25.13812154696133
+NewJeans,Super Shy,359,30,389,92.2879177377892,7.712082262210797
+NewJeans,OMG,378,140,518,72.97297297297297,27.027027027027028
+NewJeans,ASAP,601,14,615,97.72357723577237,2.2764227642276422
+Stray Kids,"좋아해서 미안 (Sorry, I Love You)",4,304,308,1.2987012987012987,98.7012987012987
+Stray Kids,일상 (Another Day),6,192,198,3.0303030303030303,96.96969696969697
+Stray Kids,해장국 (Hero’s Soup),8,226,234,3.418803418803419,96.58119658119658
+Stray Kids,Lost Me,11,0,11,100.0,0.0
+Stray Kids,SCHOOL LIFE,22,244,266,8.270676691729323,91.72932330827066
+Stray Kids,4419,24,266,290,8.275862068965518,91.72413793103448
+Stray Kids,M.I.A,28,347,375,7.466666666666668,92.53333333333333
+Stray Kids,끝나지 않을 이야기 (Neverending Story),28,254,282,9.929078014184398,90.0709219858156
+Stray Kids,GLOW,30,337,367,8.174386920980927,91.82561307901908
+Stray Kids,YOU.,30,31,61,49.18032786885246,50.81967213114754
+Stray Kids,어린 날개 (Spread My Wings),33,265,298,11.073825503355705,88.9261744966443
+Stray Kids,미친 놈 (Ex),34,309,343,9.912536443148689,90.0874635568513
+Stray Kids,Novel,39,0,39,100.0,0.0
+Stray Kids,Gone Away,40,196,236,16.94915254237288,83.05084745762711
+Stray Kids,Hello Stranger,40,250,290,13.793103448275861,86.20689655172413
+Stray Kids,SLUMP,40,232,272,14.705882352941178,85.29411764705883
+Stray Kids,밟힌 적 없는 길 (Road Not Taken),41,45,86,47.674418604651166,52.32558139534884
+Stray Kids,One Day,42,0,42,100.0,0.0
+Stray Kids,Entrance,45,0,45,100.0,0.0
+Stray Kids,BEWARE (Grrr 총량의 법칙),47,236,283,16.607773851590103,83.3922261484099
+Stray Kids,Fairytale,47,0,47,100.0,0.0
+Stray Kids,별생각 (TMT),50,286,336,14.880952380952381,85.11904761904762
+Stray Kids,WHO?,50,72,122,40.98360655737705,59.01639344262295
+Stray Kids,갑자기 분위기 싸해질 필요 없잖아요 (Awkward Silence),52,248,300,17.333333333333336,82.66666666666667
+Stray Kids,My Universe,52,239,291,17.869415807560138,82.13058419243985
+Stray Kids,19,53,321,374,14.171122994652407,85.8288770053476
+Stray Kids,Your Eyes,56,0,56,100.0,0.0
+Stray Kids,편 (My Side),57,246,303,18.81188118811881,81.1881188118812
+Stray Kids,Hoodie Season,58,347,405,14.320987654320987,85.67901234567901
+Stray Kids,Mixtape #5,58,347,405,14.320987654320987,85.67901234567901
+Stray Kids,Mixtape: 애 (OH),63,252,315,20.0,80.0
+Stray Kids,Hellevator,64,249,313,20.447284345047922,79.55271565495208
+Stray Kids,말할 수 없는 비밀 (Secret Secret),68,216,284,23.943661971830984,76.05633802816901
+Stray Kids,GO生,69,105,174,39.6551724137931,60.3448275862069
+Stray Kids,Booster,70,264,334,20.958083832335326,79.04191616766467
+Stray Kids,NOT!,70,84,154,45.45454545454545,54.54545454545454
+Stray Kids,ODDINARY Mashup,70,58,128,54.6875,45.3125
+Stray Kids,Silent Cry,70,249,319,21.9435736677116,78.0564263322884
+Stray Kids,땡 (FREEZE),73,247,320,22.8125,77.1875
+Stray Kids,바람 (Levanter),73,161,234,31.196581196581196,68.80341880341881
+Stray Kids,잘 하고 있어 (Grow Up),76,252,328,23.170731707317074,76.82926829268293
+Stray Kids,청사진 (Blueprint),78,368,446,17.48878923766816,82.51121076233184
+Stray Kids,Chronosaurus,81,160,241,33.60995850622407,66.39004149377593
+Stray Kids,충돌 (Collision),81,198,279,29.03225806451613,70.96774193548387
+Stray Kids,식혀 (CHILL),82,301,383,21.409921671018274,78.59007832898173
+Stray Kids,피어난다 (Waiting For Us),83,113,196,42.3469387755102,57.6530612244898
+Stray Kids,Double Knot,84,207,291,28.865979381443296,71.1340206185567
+Stray Kids,부작용 (Side Effects),84,217,301,27.906976744186046,72.09302325581395
+Stray Kids,Double Knot (Album Version),86,207,293,29.351535836177472,70.64846416382252
+Stray Kids,YAYAYA,87,296,383,22.715404699738905,77.28459530026109
+Stray Kids,MAXIDENT Mashup,89,96,185,48.10810810810811,51.891891891891895
+Stray Kids,MIROH,89,231,320,27.8125,72.1875
+Stray Kids,Scars,89,0,89,100.0,0.0
+Stray Kids,TOP,89,222,311,28.617363344051448,71.38263665594855
+Stray Kids,Astronaut,90,219,309,29.126213592233007,70.87378640776699
+Stray Kids,Awaken,90,255,345,26.08695652173913,73.91304347826086
+Stray Kids,바보라도 알아 - Mixtape : On Track,90,267,357,25.210084033613445,74.78991596638656
+Stray Kids,#LoveSTAY,94,113,207,45.410628019323674,54.589371980676326
+Stray Kids,3rd Eye,97,286,383,25.326370757180154,74.67362924281984
+Stray Kids,아니 (Any),97,305,402,24.129353233830848,75.87064676616916
+Stray Kids,Sunshine,99,293,392,25.255102040816325,74.74489795918367
+Stray Kids,Pacemaker,106,249,355,29.859154929577464,70.14084507042253
+Stray Kids,Boxer,107,264,371,28.84097035040431,71.15902964959568
+Stray Kids,Mirror,107,304,411,26.034063260340634,73.96593673965937
+Stray Kids,DLMLU,110,0,110,100.0,0.0
+Stray Kids,For You,111,230,341,32.55131964809384,67.44868035190615
+Stray Kids,I am YOU,111,268,379,29.287598944591032,70.71240105540898
+Stray Kids,District 9,112,240,352,31.818181818181817,68.18181818181817
+Stray Kids,불면증 (Insomnia),112,191,303,36.96369636963696,63.03630363036304
+Stray Kids,神메뉴 (God’s Menu),115,198,313,36.74121405750799,63.25878594249201
+Stray Kids,Mixtape #3,116,251,367,31.607629427792915,68.39237057220708
+Stray Kids,Back Door,117,194,311,37.62057877813505,62.37942122186495
+Stray Kids,STOP,123,140,263,46.7680608365019,53.2319391634981
+Stray Kids,Christmas EveL,124,172,296,41.891891891891895,58.108108108108105
+Stray Kids,거미줄 (VENOM),124,187,311,39.87138263665595,60.12861736334405
+Stray Kids,WOLFGANG,125,173,298,41.946308724832214,58.053691275167786
+Stray Kids,WOLFGANG (Album Version),125,173,298,41.946308724832214,58.053691275167786
+Stray Kids,Give Me Your TMI,126,239,365,34.52054794520548,65.47945205479452
+Stray Kids,소리꾼 (Thunderous),127,194,321,39.56386292834891,60.43613707165109
+Stray Kids,Mixtape #4,131,338,469,27.931769722814497,72.06823027718549
+Stray Kids,VOICES,131,198,329,39.81762917933131,60.182370820668694
+Stray Kids,We Go,132,227,359,36.768802228412255,63.231197771587745
+Stray Kids,Mixtape: Gone Days,133,173,306,43.4640522875817,56.5359477124183
+Stray Kids,고장난 나침반 (Broken Compass),134,341,475,28.210526315789476,71.78947368421052
+Stray Kids,MANIAC,134,173,307,43.648208469055376,56.35179153094463
+Stray Kids,오늘 밤 나는 불을 켜 (Up All Night),136,196,332,40.963855421686745,59.036144578313255
+Stray Kids,Mixtape #2,139,338,477,29.140461215932913,70.85953878406708
+Stray Kids,QUESTION,141,145,286,49.3006993006993,50.6993006993007
+Stray Kids,그림자도 빛이 있어야 존재 (Behind The Light),144,315,459,31.372549019607842,68.62745098039215
+Stray Kids,토끼와 거북이 (The Tortoise and the Hare),144,222,366,39.34426229508197,60.65573770491803
+Stray Kids,Butterflies,147,0,147,100.0,0.0
+Stray Kids,씩 (SSICK),147,179,326,45.0920245398773,54.90797546012271
+Stray Kids,CALL,148,0,148,100.0,0.0
+Stray Kids,비행기 (Airplane),150,269,419,35.79952267303103,64.20047732696898
+Stray Kids,SUPER BOARD,152,182,334,45.50898203592814,54.49101796407185
+Stray Kids,You Can Stay,155,234,389,39.84575835475578,60.15424164524421
+Stray Kids,DOMINO,156,196,352,44.31818181818182,55.68181818181818
+Stray Kids,Mixtape : Time Out,157,147,304,51.64473684210527,48.35526315789473
+Stray Kids,24 to 25,158,124,282,56.02836879432624,43.97163120567376
+Stray Kids,나 너 좋아하나봐 (Can’t Stop),158,161,319,49.52978056426332,50.470219435736674
+Stray Kids,Charmer,158,141,299,52.84280936454849,47.15719063545151
+Stray Kids,Haven,159,148,307,51.79153094462541,48.20846905537459
+Stray Kids,타 (TA),160,226,386,41.45077720207254,58.549222797927456
+Stray Kids,강박 (Red Lights),162,126,288,56.25,43.75
+Stray Kids,죽어보자 (GET LIT),163,196,359,45.40389972144847,54.59610027855153
+Stray Kids,Rock (돌),163,176,339,48.08259587020649,51.91740412979351
+Stray Kids,특 (S-Class),163,212,375,43.46666666666666,56.53333333333334
+Stray Kids,Winter Falls,164,261,425,38.588235294117645,61.411764705882355
+Stray Kids,FAM,166,4,170,97.6470588235294,2.3529411764705883
+Stray Kids,CHEESE,169,166,335,50.44776119402985,49.55223880597015
+Stray Kids,325,171,152,323,52.94117647058824,47.05882352941176
+Stray Kids,Phobia,171,184,355,48.16901408450705,51.83098591549295
+Stray Kids,Placebo,181,215,396,45.707070707070706,54.292929292929294
+Stray Kids,Mixtape #1,183,232,415,44.096385542168676,55.90361445783133
+Stray Kids,Lonely St.,185,115,300,61.66666666666667,38.333333333333336
+Stray Kids,Get Cool,187,201,388,48.1958762886598,51.80412371134021
+Stray Kids,승전가 (Victory Song),187,162,349,53.581661891117484,46.41833810888252
+Stray Kids,My Pace,191,211,402,47.51243781094527,52.48756218905473
+Stray Kids,B Me,192,198,390,49.23076923076923,50.76923076923077
+Stray Kids,Star Lost,194,190,384,50.520833333333336,49.47916666666667
+Stray Kids,ALL IN,195,0,195,100.0,0.0
+Stray Kids,The View,201,177,378,53.17460317460318,46.82539682539682
+Stray Kids,Easy,207,243,450,46.0,54.0
+Stray Kids,IN生 Mashup,208,231,439,47.380410022779046,52.61958997722096
+Stray Kids,위인전 (Hall of Fame),210,135,345,60.86956521739131,39.130434782608695
+Stray Kids,There,210,0,210,100.0,0.0
+Stray Kids,Muddy Water,215,241,456,47.14912280701755,52.85087719298246
+Stray Kids,THE SOUND,218,0,218,100.0,0.0
+Stray Kids,HEYDAY,223,116,339,65.78171091445427,34.21828908554572
+Stray Kids,잠깐의 고요 (Maze of Memories),223,228,451,49.44567627494457,50.554323725055426
+Stray Kids,ITEM,225,196,421,53.44418052256532,46.55581947743468
+Stray Kids,TASTE,242,154,396,61.111111111111114,38.88888888888889
+Stray Kids,3RACHA,247,249,496,49.79838709677419,50.201612903225815
+Stray Kids,TOPLINE,257,186,443,58.013544018058695,41.98645598194131
+Stray Kids,Wow,260,126,386,67.35751295336787,32.64248704663213
+Stray Kids,FNF,261,99,360,72.5,27.500000000000004
+Stray Kids,Surfin’,265,148,413,64.16464891041163,35.83535108958838
+Stray Kids,Battle Ground,278,0,278,100.0,0.0
+Stray Kids,PARTY’S NOT OVER,280,83,363,77.13498622589532,22.865013774104685
+Stray Kids,극과 극 N/S,287,254,541,53.04990757855823,46.950092421441774
+Stray Kids,DLC,304,69,373,81.50134048257372,18.498659517426276
+Stray Kids,CASE 143,311,128,439,70.84282460136674,29.157175398633257
+Stray Kids,CIRCUS,333,2,335,99.40298507462687,0.5970149253731344
+Stray Kids,신뚜두뚜두 (God’s DDU-DU DDU-DU),366,171,537,68.15642458100558,31.843575418994412
+Stray Kids,Stray Kids - Hellevator (Traducción al Español),393,0,393,100.0,0.0
+Stray Kids,Social Path,403,0,403,100.0,0.0
+Stray Kids,Youtiful (by stray kids lyrics),410,0,410,100.0,0.0
+Stray Kids,Youtiful,413,0,413,100.0,0.0
+Stray Kids,Super Bowl,503,0,503,100.0,0.0
+TOMORROW X TOGETHER,이젠 안녕 (Goodbye Now),4,158,162,2.4691358024691357,97.53086419753086
+TOMORROW X TOGETHER,Outro : STILL,4,0,4,100.0,0.0
+TOMORROW X TOGETHER,紫陽花のような恋 (Hydrangea Love),4,0,4,100.0,0.0
+TOMORROW X TOGETHER,샴푸의 요정 (Fairy of Shampoo),7,126,133,5.263157894736842,94.73684210526315
+TOMORROW X TOGETHER,널 보면 시간이 멈춰 어느 순간에도 (Love Sight),14,147,161,8.695652173913043,91.30434782608695
+TOMORROW X TOGETHER,ひとりの夜 (Hitori no Yoru),14,0,14,100.0,0.0
+TOMORROW X TOGETHER,별의 낮잠 (Nap of a Star),25,130,155,16.129032258064516,83.87096774193549
+TOMORROW X TOGETHER,Our Summer (Acoustic Mix),30,128,158,18.9873417721519,81.0126582278481
+TOMORROW X TOGETHER,君じゃない誰かの愛し方 (Ring),31,0,31,100.0,0.0
+TOMORROW X TOGETHER,Ghosting,32,223,255,12.549019607843137,87.45098039215686
+TOMORROW X TOGETHER,Our Summer,40,134,174,22.988505747126435,77.01149425287356
+TOMORROW X TOGETHER,20cm,46,199,245,18.775510204081634,81.22448979591836
+TOMORROW X TOGETHER,Eternally,48,160,208,23.076923076923077,76.92307692307693
+TOMORROW X TOGETHER,Poppin’ Star,57,154,211,27.014218009478675,72.98578199052133
+TOMORROW X TOGETHER,Outro : FALLING,64,0,64,100.0,0.0
+TOMORROW X TOGETHER,永遠に光れ (Everlasting Shine),64,0,64,100.0,0.0
+TOMORROW X TOGETHER,F2020,72,148,220,32.72727272727273,67.27272727272727
+TOMORROW X TOGETHER,Magic Island,72,153,225,32.0,68.0
+TOMORROW X TOGETHER,EYES (감은 눈을 떠봐) (From ”Armored Saurus”),73,205,278,26.258992805755394,73.7410071942446
+TOMORROW X TOGETHER,땀 (Sweat),78,195,273,28.57142857142857,71.42857142857143
+TOMORROW X TOGETHER,하굣길 (Way Home),83,227,310,26.7741935483871,73.22580645161291
+TOMORROW X TOGETHER,간지러워 (Roller Coaster),85,138,223,38.11659192825112,61.88340807174888
+TOMORROW X TOGETHER,Your Light,89,159,248,35.88709677419355,64.11290322580645
+TOMORROW X TOGETHER,Ito,97,0,97,100.0,0.0
+TOMORROW X TOGETHER,Free Falling,98,160,258,37.98449612403101,62.01550387596899
+TOMORROW X TOGETHER,Frost,100,154,254,39.37007874015748,60.629921259842526
+TOMORROW X TOGETHER,Sweet Dreams,101,111,212,47.64150943396226,52.358490566037744
+TOMORROW X TOGETHER,거울 속의 미로 (Maze in the Mirror),110,216,326,33.74233128834356,66.25766871165644
+TOMORROW X TOGETHER,9와 4분의 3 승강장에서 너를 기다려 (Run Away),115,222,337,34.124629080118694,65.8753709198813
+TOMORROW X TOGETHER,Force,116,0,116,100.0,0.0
+TOMORROW X TOGETHER,Thursday’s Child Has Far To Go,118,173,291,40.549828178694156,59.450171821305844
+TOMORROW X TOGETHER,Anti-Romantic,121,123,244,49.59016393442623,50.409836065573764
+TOMORROW X TOGETHER,Trust Fund Baby,128,87,215,59.53488372093023,40.46511627906977
+TOMORROW X TOGETHER,Tinnitus (Wanna be a rock) (돌멩이가 되고 싶어),132,122,254,51.96850393700787,48.031496062992126
+TOMORROW X TOGETHER,Intro : DREAMING,137,0,137,100.0,0.0
+TOMORROW X TOGETHER,"네버랜드를 떠나며 (Farewell, Neverland)",144,87,231,62.33766233766234,37.66233766233766
+TOMORROW X TOGETHER,Lonely Boy (네 번째 손가락 위 타투) (The tattoo on my ring finger),146,85,231,63.20346320346321,36.79653679653679
+TOMORROW X TOGETHER,Blue Spring,162,101,263,61.59695817490495,38.40304182509506
+TOMORROW X TOGETHER,밸런스 게임 (What if I had been that PUMA),165,257,422,39.09952606635071,60.90047393364929
+TOMORROW X TOGETHER,No Rules,172,123,295,58.30508474576271,41.69491525423729
+TOMORROW X TOGETHER,Blue Orangeade,175,187,362,48.34254143646409,51.657458563535904
+TOMORROW X TOGETHER,동물원을 빠져나온 퓨마 (Puma),175,208,383,45.69190600522193,54.308093994778076
+TOMORROW X TOGETHER,New Rules,184,155,339,54.27728613569322,45.72271386430678
+TOMORROW X TOGETHER,어느날 머리에서 뿔이 자랐다 (CROWN),196,196,392,50.0,50.0
+TOMORROW X TOGETHER,Drama,196,129,325,60.30769230769231,39.69230769230769
+TOMORROW X TOGETHER,Angel Or Devil,198,272,470,42.12765957446808,57.87234042553191
+TOMORROW X TOGETHER,교환일기 (두밧두 와리와리) (MOA Diary Dubaddu Wari Wari),207,165,372,55.64516129032258,44.354838709677416
+TOMORROW X TOGETHER,Cat & Dog,208,192,400,52.0,48.0
+TOMORROW X TOGETHER,Opening Sequence,209,105,314,66.56050955414013,33.43949044585987
+TOMORROW X TOGETHER,디어 스푸트니크 (Dear Sputnik),214,136,350,61.142857142857146,38.857142857142854
+TOMORROW X TOGETHER,날씨를 잃어버렸어 (We Lost The Summer),216,180,396,54.54545454545454,45.45454545454545
+TOMORROW X TOGETHER,Sugar Rush Ride,224,125,349,64.18338108882521,35.816618911174785
+TOMORROW X TOGETHER,소악행 (Ice Cream),226,123,349,64.75644699140402,35.24355300859599
+TOMORROW X TOGETHER,Wishlist,231,92,323,71.51702786377709,28.482972136222912
+TOMORROW X TOGETHER,0X1=LOVESONG (I Know I Love You),241,145,386,62.43523316062176,37.56476683937824
+TOMORROW X TOGETHER,0x1=LOVESONG (I Know I Love You) (Emocore Mix),246,150,396,62.121212121212125,37.878787878787875
+TOMORROW X TOGETHER,LO$ER=LO♡ER (LOSER=LOVER),262,116,378,69.31216931216932,30.687830687830687
+TOMORROW X TOGETHER,Happy Fools,272,101,373,72.92225201072387,27.07774798927614
+TOMORROW X TOGETHER,TOMORROW X TOGETHER - 땀 (Sweat) - Romanized,272,0,272,100.0,0.0
+TOMORROW X TOGETHER,5시 53분의 하늘에서 발견한 너와 나 (Blue Hour),279,159,438,63.6986301369863,36.3013698630137
+TOMORROW X TOGETHER,Good Boy Gone Bad,286,168,454,62.99559471365639,37.00440528634361
+TOMORROW X TOGETHER,"세계가 불타버린 밤, 우린... (Can’t You See Me?)",316,97,413,76.51331719128329,23.486682808716708
+TOMORROW X TOGETHER,Devil by the Window (자정의 창가에서 만난 악마의 목소리는 달콤했다),393,0,393,100.0,0.0
+TOMORROW X TOGETHER,Magic,490,0,490,100.0,0.0
+TOMORROW X TOGETHER,Sriracha,542,0,542,100.0,0.0
+TWICE,알고 싶지 않아 (REWIND),7,160,167,4.191616766467066,95.80838323353294
+TWICE,Be as ONE (Korean Version),10,211,221,4.524886877828054,95.47511312217195
+TWICE,Be as ONE,13,0,13,100.0,0.0
+TWICE,소중한 사랑 (Precious Love),14,213,227,6.167400881057269,93.83259911894272
+TWICE,널 내게 담아 (YOU IN MY HEART),16,255,271,5.904059040590406,94.0959409594096
+TWICE,Wishing,18,0,18,100.0,0.0
+TWICE,Ice Cream (녹아요),23,173,196,11.73469387755102,88.26530612244898
+TWICE,하루에 세번 (Three Times a Day),27,236,263,10.26615969581749,89.73384030418251
+TWICE,"잘자요 굿나잇 (JALJAYO, GOOD NIGHT)",30,155,185,16.216216216216218,83.78378378378379
+TWICE,거북이 (TURTLE),38,213,251,15.139442231075698,84.86055776892431
+TWICE,SIGNAL,44,234,278,15.827338129496402,84.17266187050359
+TWICE,트와이스 송 (TWICE Song),46,152,198,23.232323232323232,76.76767676767676
+TWICE,"Thank you, Family",47,0,47,100.0,0.0
+TWICE,Hold Me Tight,52,187,239,21.75732217573222,78.24267782426779
+TWICE,The Reason Why,56,0,56,100.0,0.0
+TWICE,선인장 (CACTUS),58,126,184,31.521739130434785,68.47826086956522
+TWICE,Cryptography Voice Memo,60,0,60,100.0,0.0
+TWICE,Merry & Happy,61,153,214,28.504672897196258,71.49532710280374
+TWICE,Pathfinder Voice Memo,62,0,62,100.0,0.0
+TWICE,Complete Voice Memo,66,0,66,100.0,0.0
+TWICE,Archive Voice Memo,67,0,67,100.0,0.0
+TWICE,Headphone 써 (My Headphones On),68,178,246,27.64227642276423,72.35772357723577
+TWICE,WOW,70,212,282,24.822695035460992,75.177304964539
+TWICE,Ready To Be with Dahyun & Chaeyoung & Tzuyu,71,0,71,100.0,0.0
+TWICE,Ready To Be with Jihyo & Nayeon,71,0,71,100.0,0.0
+TWICE,AFTER MOON,72,139,211,34.12322274881517,65.87677725118483
+TWICE,SUNSET,72,243,315,22.857142857142858,77.14285714285715
+TWICE,SHADOW,73,174,247,29.554655870445345,70.44534412955466
+TWICE,PROMISE,78,0,78,100.0,0.0
+TWICE,ROLLIN’,80,181,261,30.65134099616858,69.34865900383141
+TWICE,힘내! (DON’T GIVE UP),81,187,268,30.223880597014922,69.77611940298507
+TWICE,올해 제일 잘한 일 (The Best Thing I Ever Did),86,195,281,30.604982206405694,69.3950177935943
+TWICE,SAY YES,88,174,262,33.587786259541986,66.41221374045801
+TWICE,Someone Like Me,89,192,281,31.672597864768683,68.32740213523132
+TWICE,Like a Fool,90,131,221,40.723981900452486,59.276018099547514
+TWICE,Strawberry Moon,93,0,93,100.0,0.0
+TWICE,Doughnut,94,0,94,100.0,0.0
+TWICE,FIREWORK,95,187,282,33.687943262411345,66.31205673758865
+TWICE,21:29,98,124,222,44.14414414414414,55.85585585585585
+TWICE,미쳤나봐 (Going Crazy),100,165,265,37.735849056603776,62.264150943396224
+TWICE,LIKEY,100,187,287,34.84320557491289,65.1567944250871
+TWICE,Sandcastle,101,0,101,100.0,0.0
+TWICE,Ready To Be with Sana & Mina,103,0,103,100.0,0.0
+TWICE,1 TO 10,104,198,302,34.437086092715234,65.56291390728477
+TWICE,Alcohol-Free,107,168,275,38.90909090909091,61.09090909090909
+TWICE,툭하면 톡 (Tuk Tok),108,229,337,32.047477744807125,67.95252225519289
+TWICE,다시 해줘 (Do It Again),110,244,354,31.07344632768362,68.92655367231639
+TWICE,STUCK,112,237,349,32.09169054441261,67.90830945558739
+TWICE,SAY SOMETHING,113,123,236,47.88135593220339,52.118644067796616
+TWICE,Feel Special,114,167,281,40.569395017793596,59.430604982206404
+TWICE,SWEET TALKER,116,187,303,38.28382838283829,61.71617161716172
+TWICE,Voice Memo 3,116,2,118,98.30508474576271,1.694915254237288
+TWICE,Stronger,117,0,117,100.0,0.0
+TWICE,Ready To Be with Jeongyeon & Momo,118,0,118,100.0,0.0
+TWICE,LOVE LINE,119,213,332,35.8433734939759,64.1566265060241
+TWICE,Fanfare,120,0,120,100.0,0.0
+TWICE,OOH-AHH하게 (Like OOH-AHH),120,217,337,35.60830860534125,64.39169139465875
+TWICE,CHEER UP,121,240,361,33.51800554016621,66.4819944598338
+TWICE,BELIEVER,122,122,244,50.0,50.0
+TWICE,누구보다 널 사랑해 (I love you more than anyone),126,150,276,45.65217391304348,54.347826086956516
+TWICE,PONYTAIL,126,137,263,47.90874524714829,52.09125475285171
+TWICE,FANCY,129,176,305,42.295081967213115,57.70491803278689
+TWICE,날 바라바라봐 (LOOK AT ME),130,222,352,36.93181818181818,63.06818181818182
+TWICE,TT,132,229,361,36.56509695290859,63.43490304709142
+TWICE,YOUNG & WILD,132,199,331,39.87915407854985,60.12084592145015
+TWICE,ONE IN A MILLION,134,119,253,52.96442687747036,47.03557312252965
+TWICE,Voice Memo 1,134,0,134,100.0,0.0
+TWICE,CHILLAX,135,204,339,39.823008849557525,60.17699115044248
+TWICE,Eye Eye Eyes,137,230,367,37.32970027247956,62.67029972752044
+TWICE,GIRLS LIKE US,137,92,229,59.82532751091703,40.174672489082965
+TWICE,BDZ,138,0,138,100.0,0.0
+TWICE,"MOVE (Momo, Mina, Dahyun, Chaeyoung)",138,148,286,48.25174825174825,51.74825174825175
+TWICE,Voice Memo 4,139,0,139,100.0,0.0
+TWICE,HANDLE IT,141,118,259,54.440154440154444,45.559845559845556
+TWICE,JELLY JELLY,142,181,323,43.962848297213625,56.03715170278638
+TWICE,SWING,142,0,142,100.0,0.0
+TWICE,Kura Kura,143,0,143,100.0,0.0
+TWICE,The Feels Voice Memo 1: Dahyun & Tzuyu,143,0,143,100.0,0.0
+TWICE,What Is Love?,143,188,331,43.202416918429,56.797583081571
+TWICE,PIT-A-PAT,144,188,332,43.373493975903614,56.62650602409639
+TWICE,Voice memo 1 from TWICE,144,0,144,100.0,0.0
+TWICE,LALALA,146,133,279,52.32974910394266,47.67025089605735
+TWICE,LOVE FOOLISH,147,100,247,59.51417004048582,40.48582995951417
+TWICE,The Feels Voice Memo 2: Momo & Mina,147,0,147,100.0,0.0
+TWICE,SAY YOU LOVE ME,148,213,361,40.99722991689751,59.0027700831025
+TWICE,REAL YOU,150,202,352,42.61363636363637,57.38636363636363
+TWICE,Voice Memo 2,150,4,154,97.40259740259741,2.5974025974025974
+TWICE,Wonderful Day,150,0,150,100.0,0.0
+TWICE,RAINBOW,152,130,282,53.90070921985816,46.09929078014184
+TWICE,Changing!,153,0,153,100.0,0.0
+TWICE,HO!,157,214,371,42.318059299191376,57.68194070080862
+TWICE,GET LOUD,158,247,405,39.01234567901234,60.98765432098765
+TWICE,The Feels Voice Memo 4: Sana & Jihyo,159,6,165,96.36363636363636,3.6363636363636362
+TWICE,ONE MORE TIME,164,0,164,100.0,0.0
+TWICE,HELL IN HEAVEN,165,109,274,60.21897810218978,39.78102189781022
+TWICE,Gone,167,121,288,57.986111111111114,42.01388888888889
+TWICE,NEXT PAGE,167,197,364,45.879120879120876,54.12087912087912
+TWICE,LAST WALTZ,168,139,307,54.72312703583062,45.27687296416938
+TWICE,STAY BY MY SIDE,168,0,168,100.0,0.0
+TWICE,MORE & MORE,169,165,334,50.59880239520959,49.40119760479042
+TWICE,Bitter Sweet,170,0,170,100.0,0.0
+TWICE,DON’T CALL ME AGAIN,171,75,246,69.51219512195121,30.48780487804878
+TWICE,SWEET SUMMER DAY,171,148,319,53.60501567398119,46.39498432601881
+TWICE,That’s all I’m saying,171,0,171,100.0,0.0
+TWICE,24/7,172,145,317,54.25867507886435,45.74132492113564
+TWICE,POLISH,173,0,173,100.0,0.0
+TWICE,Shot thru the heart,174,211,385,45.19480519480519,54.8051948051948
+TWICE,Touchdown,174,164,338,51.4792899408284,48.5207100591716
+TWICE,Fake & True,175,0,175,100.0,0.0
+TWICE,OXYGEN,175,185,360,48.61111111111111,51.388888888888886
+TWICE,MISSING U,176,158,334,52.69461077844312,47.30538922155689
+TWICE,Scorpion,177,0,177,100.0,0.0
+TWICE,L.O.V.E,178,0,178,100.0,0.0
+TWICE,Be OK,179,0,179,100.0,0.0
+TWICE,Heart Shaker,181,163,344,52.616279069767444,47.383720930232556
+TWICE,DING DONG,182,173,355,51.267605633802816,48.732394366197184
+TWICE,BETTER,184,0,184,100.0,0.0
+TWICE,DEJAVU,186,194,380,48.94736842105264,51.05263157894737
+TWICE,FFW,186,223,409,45.47677261613692,54.52322738386308
+TWICE,UP NO MORE,186,196,382,48.69109947643979,51.30890052356021
+TWICE,STRAWBERRY,187,159,346,54.04624277456648,45.95375722543353
+TWICE,DEPEND ON YOU,188,137,325,57.84615384615385,42.15384615384615
+TWICE,The Feels Voice Memo 3: Nayeon & Chaeyoung,189,0,189,100.0,0.0
+TWICE,Only 너 (Only You),190,222,412,46.116504854368934,53.883495145631066
+TWICE,Candy Boy,191,84,275,69.45454545454545,30.545454545454547
+TWICE,Candy Pop,191,0,191,100.0,0.0
+TWICE,YES or YES,192,226,418,45.933014354066984,54.066985645933016
+TWICE,Conversation,194,91,285,68.0701754385965,31.929824561403507
+TWICE,BREAKTHROUGH (Korean Version),195,165,360,54.166666666666664,45.83333333333333
+TWICE,Say It Again,195,0,195,100.0,0.0
+TWICE,How u doin’,196,0,196,100.0,0.0
+TWICE,LUV ME,197,0,197,100.0,0.0
+TWICE,Breakthrough,198,0,198,100.0,0.0
+TWICE,First Time,198,116,314,63.05732484076433,36.94267515923567
+TWICE,Just be yourself,201,0,201,100.0,0.0
+TWICE,"1, 3, 2002",206,168,374,55.080213903743314,44.919786096256686
+TWICE,GO HARD,206,95,301,68.43853820598007,31.561461794019934
+TWICE,Pink Lemonade,211,0,211,100.0,0.0
+TWICE,When We Were Kids,211,112,323,65.3250773993808,34.6749226006192
+TWICE,Dance the Night Away,213,124,337,63.20474777448071,36.795252225519285
+TWICE,Wake Me Up,218,0,218,100.0,0.0
+TWICE,HOT,223,95,318,70.12578616352201,29.874213836477985
+TWICE,BEHIND THE MASK,228,73,301,75.74750830564784,24.25249169435216
+TWICE,Woohoo,231,178,409,56.47921760391198,43.52078239608802
+TWICE,Perfect World,233,0,233,100.0,0.0
+TWICE,TICK TOCK,239,0,239,100.0,0.0
+TWICE,In the summer,240,0,240,100.0,0.0
+TWICE,SOS,241,82,323,74.61300309597523,25.386996904024766
+TWICE,PUSH & PULL,244,181,425,57.41176470588235,42.58823529411765
+TWICE,DO WHAT WE LIKE,247,87,334,73.95209580838323,26.047904191616766
+TWICE,ESPRESSO,248,210,458,54.14847161572053,45.851528384279476
+TWICE,Celebrate,249,0,249,100.0,0.0
+TWICE,SET ME FREE,249,159,408,61.029411764705884,38.970588235294116
+TWICE,Voice memo 2 from TWICE,249,0,249,100.0,0.0
+TWICE,CRY FOR ME,251,127,378,66.4021164021164,33.5978835978836
+TWICE,Basics,252,138,390,64.61538461538461,35.38461538461539
+TWICE,HAPPY HAPPY,253,0,253,100.0,0.0
+TWICE,WALLFLOWER,253,86,339,74.63126843657817,25.368731563421832
+TWICE,SCIENTIST,255,154,409,62.34718826405869,37.65281173594132
+TWICE,Talk that Talk,257,157,414,62.07729468599034,37.92270531400966
+TWICE,CRAZY STUPID LOVE,258,89,347,74.35158501440922,25.64841498559078
+TWICE,BRAND NEW GIRL,259,0,259,100.0,0.0
+TWICE,Baby Blue Love,265,62,327,81.03975535168195,18.960244648318042
+TWICE,BRING IT BACK,276,132,408,67.64705882352942,32.35294117647059
+TWICE,GOT THE THRILLS,277,113,390,71.02564102564102,28.974358974358978
+TWICE,Voices of Delight,278,0,278,100.0,0.0
+TWICE,QUEEN,281,157,438,64.15525114155251,35.84474885844749
+TWICE,KNOCK KNOCK,284,150,434,65.43778801843318,34.56221198156682
+TWICE,BLAME IT ON ME,290,74,364,79.67032967032966,20.32967032967033
+TWICE,Four-leaf Clover,291,0,291,100.0,0.0
+TWICE,TURN IT UP,296,177,473,62.579281183932345,37.420718816067655
+TWICE,PIECES OF LOVE,297,0,297,100.0,0.0
+TWICE,Scandal,298,56,354,84.18079096045197,15.819209039548024
+TWICE,STUCK IN MY HEAD,298,178,476,62.60504201680672,37.39495798319328
+TWICE,Brave,311,129,440,70.68181818181817,29.318181818181817
+TWICE,Hare Hare,311,0,311,100.0,0.0
+TWICE,SHOT CLOCK,313,142,455,68.79120879120879,31.208791208791208
+TWICE,I CAN’T STOP ME,316,158,474,66.66666666666666,33.33333333333333
+TWICE,CRUEL,317,62,379,83.64116094986808,16.358839050131927
+TWICE,HELLO,319,110,429,74.35897435897436,25.64102564102564
+TWICE,TRICK IT,329,133,462,71.21212121212122,28.78787878787879
+TWICE,F.I.L.A (Fall In Love Again),333,65,398,83.66834170854271,16.331658291457288
+TWICE,Good at Love,349,0,349,100.0,0.0
+TWICE,Flow like waves,354,0,354,100.0,0.0
+TWICE,CANDY,358,0,358,100.0,0.0
+TWICE,Truth,368,113,481,76.50727650727652,23.492723492723496
+TWICE,Trouble,374,99,473,79.06976744186046,20.930232558139537
+TWICE,MAKE ME GO,387,115,502,77.09163346613546,22.90836653386454
+TWICE,Catch a Wave,409,0,409,100.0,0.0
+TWICE,I’m Gonna Be a Star,434,99,533,81.42589118198875,18.574108818011258
+TWICE,Queen of Hearts,454,0,454,100.0,0.0
+TWICE,ICON,484,0,484,100.0,0.0
+TWICE,MOONLIGHT SUNRISE,484,0,484,100.0,0.0
+TWICE,MOONLIGHT,492,0,492,100.0,0.0
+TWICE,What You Waiting For,496,0,496,100.0,0.0
+TWICE,I WANT YOU BACK,552,0,552,100.0,0.0
+TWICE,The Feels,634,0,634,100.0,0.0
